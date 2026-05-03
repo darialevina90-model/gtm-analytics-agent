@@ -1,0 +1,1001 @@
+opportunity_id,opportunity_name,account_name,rep_name,industry,segment,stage,deal_size,days_in_stage,close_date,created_date,win_loss
+1,Deal Alpha,Gabspot,Kienan Schrinel,Healthcare,Mid-Market,Qualification,239570,66,1/27/2024,5/15/2024,Open
+2,Deal Beta,Oyoba,Perla Shuter,Healthcare,Mid-Market,Proposal,326504,72,5/24/2024,7/5/2024,Open
+3,Deal Delta,Browsetype,Estell Roseby,Financial Services,Enterprise,Proposal,259228,2,8/7/2024,6/21/2023,Open
+4,Deal Alpha,Oyoba,Krissy Milner,Professional Services,Mid-Market,Proposal,254119,38,8/2/2025,12/24/2024,Open
+5,Deal Alpha,Muxo,Tanya Connerly,Professional Services,Mid-Market,Proposal,461979,19,3/6/2025,9/17/2024,Open
+6,Deal Delta,Nlounge,Donovan Pelchat,Professional Services,Enterprise,Proposal,167817,66,4/13/2025,7/21/2023,Open
+7,Deal Gamma,Kwideo,Tomasina Rannigan,Technology,Enterprise,Prospecting,20329,54,7/20/2024,10/7/2023,Open
+8,Deal Alpha,Twimbo,Hildegarde Barkly,Financial Services,Mid-Market,Qualification,378460,19,8/6/2025,11/13/2024,Open
+9,Deal Beta,Jetpulse,Maddy Parminter,Manufacturing,Enterprise,Prospecting,257156,9,2/8/2025,12/13/2023,Open
+10,Deal Alpha,Leenti,Eveleen Bolley,Manufacturing,Mid-Market,Negotiation,234401,35,5/10/2025,6/4/2023,Open
+11,Deal Gamma,Rhycero,Georgine Lonsdale,Retail,SMB,Proposal,200297,28,12/21/2025,7/23/2023,Open
+12,Deal Beta,Wordtune,Obadias Kitney,Professional Services,Enterprise,Proposal,295167,34,4/14/2024,3/15/2024,Open
+13,Deal Alpha,Katz,Mohandas Botly,Manufacturing,Mid-Market,Demo,469899,9,10/27/2024,12/12/2023,Open
+14,Deal Delta,Jabbertype,Kimberley Full,Healthcare,SMB,Closed Won,401891,75,8/7/2024,1/22/2024,Won
+15,Deal Gamma,Brainlounge,Alisander Bradfield,Technology,SMB,Proposal,470017,16,1/21/2025,2/7/2024,Open
+16,Deal Delta,Fatz,Brod Bortoloni,Financial Services,Enterprise,Demo,293343,13,11/7/2025,2/26/2024,Open
+17,Deal Alpha,Mymm,Alla Dominichelli,Retail,Mid-Market,Prospecting,384190,14,11/30/2024,12/16/2024,Open
+18,Deal Delta,Mydo,Hashim McCarroll,Technology,Enterprise,Closed Lost,373763,70,8/30/2024,7/18/2024,Lost
+19,Deal Alpha,Dazzlesphere,Eyde Silveston,Financial Services,SMB,Closed Won,7147,11,8/20/2024,12/18/2023,Won
+20,Deal Gamma,Photobean,Charyl Noton,Professional Services,SMB,Proposal,40578,86,5/8/2024,4/20/2024,Open
+21,Deal Alpha,Skyba,Nate Cable,Financial Services,Mid-Market,Demo,19098,27,6/3/2024,9/23/2023,Open
+22,Deal Alpha,Camido,Layton Bignal,Healthcare,Enterprise,Prospecting,40190,87,5/7/2024,6/22/2023,Open
+23,Deal Gamma,Midel,Daron Ionn,Retail,SMB,Closed Won,413894,49,6/7/2024,11/11/2024,Won
+24,Deal Delta,Brainbox,Sigismundo Whiley,Manufacturing,Enterprise,Demo,257594,88,4/5/2025,3/1/2024,Open
+25,Deal Delta,Youopia,Forster Filyushkin,Healthcare,Enterprise,Qualification,286098,34,11/28/2025,8/5/2024,Open
+26,Deal Beta,Fadeo,Merrielle Alker,Professional Services,SMB,Proposal,268355,19,4/5/2025,8/10/2023,Open
+27,Deal Beta,Jaloo,Matthiew Kinnear,Technology,Enterprise,Negotiation,369244,63,7/21/2024,11/3/2024,Open
+28,Deal Gamma,Shuffledrive,Wilhelmina Abbotts,Financial Services,SMB,Proposal,473739,49,1/15/2024,8/23/2024,Open
+29,Deal Alpha,Avamm,Meredeth Jouhandeau,Manufacturing,Mid-Market,Qualification,44127,30,8/26/2024,11/2/2023,Open
+30,Deal Beta,Fiveclub,Else McPartling,Technology,SMB,Proposal,487716,16,3/18/2025,10/6/2024,Open
+31,Deal Beta,Dazzlesphere,Dione Blasiak,Financial Services,SMB,Prospecting,335626,75,8/11/2024,8/2/2023,Open
+32,Deal Gamma,Gabtune,Mindy Banaszewski,Manufacturing,Mid-Market,Demo,167843,34,1/13/2025,5/16/2024,Open
+33,Deal Alpha,Yamia,Liz Dunkerly,Healthcare,SMB,Qualification,229542,5,4/3/2024,5/31/2024,Open
+34,Deal Beta,Chatterbridge,Florrie Ballance,Technology,Enterprise,Demo,277661,32,8/1/2024,8/7/2023,Open
+35,Deal Beta,Youopia,Martie Sacchetti,Retail,Enterprise,Closed Won,465193,49,2/25/2024,1/7/2024,Won
+36,Deal Delta,Centimia,Grantley Rasmus,Retail,Enterprise,Qualification,101325,87,4/10/2025,10/13/2023,Open
+37,Deal Delta,Quimba,Clara Barde,Healthcare,Enterprise,Prospecting,306209,89,6/12/2025,7/10/2023,Open
+38,Deal Alpha,Quaxo,Meredithe Boldock,Healthcare,Mid-Market,Proposal,215391,57,12/20/2025,12/20/2023,Open
+39,Deal Delta,Meembee,Branden Bussey,Professional Services,Enterprise,Proposal,158959,20,4/11/2024,11/20/2023,Open
+40,Deal Beta,Zoomdog,Gaby Galfour,Retail,Enterprise,Demo,94270,44,8/4/2025,3/3/2024,Open
+41,Deal Alpha,Leexo,Diahann Phettiplace,Healthcare,Enterprise,Proposal,240221,89,1/20/2024,11/17/2023,Open
+42,Deal Beta,Zava,Starr Winsbury,Retail,Enterprise,Prospecting,242085,21,10/20/2025,11/3/2023,Open
+43,Deal Alpha,Minyx,Editha Applebee,Financial Services,SMB,Prospecting,403931,1,1/21/2025,8/24/2024,Open
+44,Deal Delta,Rhycero,Paco Cuerdall,Healthcare,Mid-Market,Demo,403656,56,1/13/2025,7/2/2024,Open
+45,Deal Gamma,Jatri,Barbra Seeks,Professional Services,SMB,Negotiation,317608,38,1/8/2025,11/12/2024,Open
+46,Deal Gamma,Bluezoom,Rennie Fewlass,Professional Services,Mid-Market,Proposal,470565,20,2/16/2024,7/10/2024,Open
+47,Deal Gamma,Latz,Alejandra Hollebon,Healthcare,Enterprise,Qualification,12634,71,8/7/2025,6/30/2024,Open
+48,Deal Beta,Vimbo,Suzie Hauxby,Technology,Mid-Market,Closed Won,231638,9,2/2/2024,8/24/2024,Won
+49,Deal Gamma,Quire,Berta Childerley,Professional Services,SMB,Closed Won,376895,76,1/16/2025,12/12/2023,Won
+50,Deal Beta,Rooxo,Wilbur Ely,Healthcare,Enterprise,Proposal,214327,58,4/1/2025,8/11/2024,Open
+51,Deal Beta,Edgeclub,Elicia Moyse,Professional Services,SMB,Negotiation,473004,87,4/23/2025,8/9/2023,Open
+52,Deal Delta,Livetube,Leeanne Paddingdon,Healthcare,SMB,Qualification,147398,74,9/7/2024,6/22/2023,Open
+53,Deal Beta,Oyoba,Anne-marie Lismer,Retail,SMB,Qualification,393469,18,7/8/2025,7/24/2024,Open
+54,Deal Beta,Zoomdog,Tim Pickerin,Technology,Enterprise,Qualification,152098,23,6/8/2024,3/29/2024,Open
+55,Deal Beta,Realcube,Norman Dedney,Technology,SMB,Prospecting,162296,36,6/23/2024,10/23/2024,Open
+56,Deal Beta,Zoonder,Peggy Halbert,Healthcare,SMB,Demo,131066,61,9/15/2025,3/5/2024,Open
+57,Deal Delta,Zazio,Padgett Westbrook,Professional Services,Mid-Market,Proposal,72105,7,7/10/2025,1/10/2024,Open
+58,Deal Alpha,Blognation,Gabriello Hort,Financial Services,Enterprise,Demo,465407,53,9/17/2025,10/5/2024,Open
+59,Deal Beta,Linkbridge,Clevie Abatelli,Healthcare,Mid-Market,Closed Won,482259,80,11/19/2025,11/28/2024,Won
+60,Deal Gamma,Buzzdog,Sena Tukesby,Professional Services,Mid-Market,Prospecting,122242,51,11/22/2025,2/3/2024,Open
+61,Deal Beta,Blogtag,Phyllis Uglow,Professional Services,Enterprise,Qualification,110297,3,3/14/2024,3/17/2024,Open
+62,Deal Delta,Edgepulse,Kristal Morrilly,Retail,Mid-Market,Prospecting,364956,36,5/25/2025,8/30/2024,Open
+63,Deal Delta,Jaxspan,Joice Diack,Manufacturing,Mid-Market,Demo,198135,41,10/22/2025,7/14/2024,Open
+64,Deal Gamma,Jabbercube,Germain Ogborne,Technology,Enterprise,Negotiation,247192,37,8/18/2024,7/31/2023,Open
+65,Deal Alpha,Wikizz,Ardath Werndley,Technology,Enterprise,Prospecting,183271,70,11/15/2024,7/1/2024,Open
+66,Deal Delta,Dabfeed,Beniamino Peabody,Manufacturing,SMB,Qualification,175654,88,12/29/2025,5/12/2024,Open
+67,Deal Beta,Yacero,Demeter Wickersham,Healthcare,Mid-Market,Demo,41657,37,8/4/2024,11/11/2024,Open
+68,Deal Delta,Talane,Brose Alexandrescu,Technology,Mid-Market,Demo,436476,43,8/23/2025,4/1/2024,Open
+69,Deal Delta,Pixonyx,Bonny Rainford,Healthcare,Enterprise,Demo,124554,66,4/12/2024,12/23/2023,Open
+70,Deal Beta,Skidoo,Virgie Sackler,Manufacturing,Enterprise,Negotiation,58701,20,12/19/2024,12/13/2024,Open
+71,Deal Beta,BlogXS,King Fardoe,Technology,Mid-Market,Demo,249287,43,1/12/2025,8/10/2023,Open
+72,Deal Alpha,Oyonder,Westleigh Dennitts,Manufacturing,SMB,Demo,62870,87,2/13/2025,9/8/2023,Open
+73,Deal Gamma,Yombu,Guillaume Heimann,Manufacturing,Mid-Market,Closed Won,189445,64,2/21/2024,10/15/2024,Won
+74,Deal Delta,Realpoint,Kelsey Levermore,Financial Services,Enterprise,Prospecting,147774,61,11/26/2025,11/15/2023,Open
+75,Deal Gamma,Skiba,Franz Collopy,Professional Services,Mid-Market,Negotiation,341852,26,6/10/2024,7/8/2023,Open
+76,Deal Alpha,Jayo,Lindy Embery,Retail,SMB,Demo,228955,9,8/4/2024,6/7/2023,Open
+77,Deal Gamma,Eidel,Johnny Bauser,Retail,Enterprise,Demo,294516,53,10/9/2024,3/15/2024,Open
+78,Deal Alpha,Devpulse,Essie Abramsky,Professional Services,Mid-Market,Proposal,143715,41,7/19/2024,6/8/2024,Open
+79,Deal Delta,Twitterlist,Colas Pavelka,Financial Services,SMB,Proposal,220434,58,7/14/2024,2/13/2024,Open
+80,Deal Gamma,Quinu,Lusa Kerner,Financial Services,Enterprise,Proposal,97466,29,1/27/2024,7/29/2023,Open
+81,Deal Alpha,Shufflebeat,Vernice Dallicoat,Manufacturing,Mid-Market,Negotiation,122735,3,9/15/2024,1/10/2024,Open
+82,Deal Alpha,DabZ,Joli Hubberstey,Professional Services,Mid-Market,Negotiation,212958,17,7/25/2024,10/13/2023,Open
+83,Deal Alpha,Eidel,Kristine Waggett,Financial Services,Enterprise,Closed Won,417105,24,6/27/2025,8/16/2023,Won
+84,Deal Gamma,Photobean,Huberto Guillotin,Retail,SMB,Prospecting,472715,47,12/4/2024,8/27/2023,Open
+85,Deal Gamma,Voolith,Alejandra Weatherill,Professional Services,SMB,Demo,280445,36,10/4/2024,12/1/2024,Open
+86,Deal Alpha,Kanoodle,Nadeen Abdy,Financial Services,Enterprise,Demo,457185,68,3/11/2024,9/25/2024,Open
+87,Deal Delta,Ooba,Pollyanna Rouke,Financial Services,SMB,Demo,95272,90,9/8/2024,6/9/2024,Open
+88,Deal Beta,Yombu,Alessandra McIlhatton,Financial Services,Mid-Market,Closed Lost,431975,60,5/12/2025,6/24/2023,Lost
+89,Deal Delta,Skaboo,Gaylord Curdell,Healthcare,Enterprise,Closed Lost,383354,80,7/15/2025,9/17/2023,Lost
+90,Deal Gamma,Tagcat,Jaye Gateley,Retail,Mid-Market,Proposal,210986,6,9/14/2025,1/8/2024,Open
+91,Deal Alpha,InnoZ,Nicolina Bankes,Professional Services,Mid-Market,Proposal,465726,17,6/9/2025,8/11/2023,Open
+92,Deal Delta,Ainyx,Justin Reinbach,Healthcare,Enterprise,Prospecting,412766,25,1/17/2024,10/15/2024,Open
+93,Deal Delta,Ailane,Madelin Knoble,Professional Services,Enterprise,Qualification,382850,42,12/31/2024,4/23/2024,Open
+94,Deal Delta,Skinix,Catherine Brumen,Healthcare,Enterprise,Demo,140907,34,5/13/2025,11/27/2023,Open
+95,Deal Delta,Flashspan,Julieta Edmundson,Financial Services,SMB,Negotiation,240190,75,12/21/2024,9/26/2023,Open
+96,Deal Beta,Voolia,Marietta Snoddin,Healthcare,Enterprise,Proposal,402470,42,3/16/2024,6/7/2023,Open
+97,Deal Beta,Twitterlist,Cletus Edge,Technology,Enterprise,Prospecting,125112,73,1/9/2024,4/15/2024,Open
+98,Deal Gamma,Voomm,Adina Frammingham,Financial Services,Enterprise,Closed Lost,318412,29,1/31/2025,7/6/2024,Lost
+99,Deal Delta,Oozz,Siegfried Teasey,Retail,Mid-Market,Demo,416694,37,6/16/2025,11/2/2023,Open
+100,Deal Beta,Jabbertype,Brunhilda MacGoun,Professional Services,Mid-Market,Proposal,289409,34,9/4/2025,7/26/2023,Open
+101,Deal Delta,Wordtune,Morry Chree,Retail,SMB,Demo,324595,52,5/27/2025,12/11/2024,Open
+102,Deal Gamma,Leenti,Christi Vella,Financial Services,SMB,Qualification,290579,27,8/18/2024,3/12/2024,Open
+103,Deal Delta,Quatz,Bink Espinas,Healthcare,Enterprise,Qualification,469729,88,10/23/2025,11/1/2024,Open
+104,Deal Delta,Voolith,Ad Artharg,Technology,Enterprise,Negotiation,204795,11,6/26/2025,9/13/2023,Open
+105,Deal Gamma,Blogspan,Thomasina Jordanson,Retail,Enterprise,Prospecting,270660,68,1/30/2025,10/22/2024,Open
+106,Deal Gamma,Browseblab,Corissa Pepperell,Financial Services,Mid-Market,Closed Won,43677,48,9/18/2024,2/7/2024,Won
+107,Deal Beta,Yabox,Gabby Royden,Healthcare,SMB,Prospecting,390837,78,10/12/2024,10/30/2024,Open
+108,Deal Gamma,Realmix,Tammy Kermannes,Healthcare,Enterprise,Qualification,173640,73,12/19/2024,11/13/2023,Open
+109,Deal Gamma,Skajo,April Mickelwright,Professional Services,Mid-Market,Qualification,112060,71,9/11/2025,6/21/2023,Open
+110,Deal Gamma,Thoughtblab,Corabel Aidler,Healthcare,Enterprise,Prospecting,443439,27,2/22/2025,12/19/2024,Open
+111,Deal Alpha,Twitterlist,Jillana Wallett,Technology,Enterprise,Proposal,36370,3,12/15/2024,11/18/2024,Open
+112,Deal Alpha,Chatterpoint,Dell Flockhart,Manufacturing,SMB,Qualification,399072,61,5/9/2025,10/15/2023,Open
+113,Deal Beta,Fanoodle,Even Carless,Retail,Mid-Market,Negotiation,383858,68,10/6/2024,8/17/2023,Open
+114,Deal Gamma,Fatz,Krystal Alliberton,Healthcare,Enterprise,Prospecting,327445,81,10/16/2025,5/19/2024,Open
+115,Deal Beta,Mycat,Alvera Clancey,Manufacturing,SMB,Negotiation,314561,84,11/25/2024,6/20/2023,Open
+116,Deal Delta,Linkbuzz,Herculie Nucci,Healthcare,Mid-Market,Prospecting,357066,90,3/13/2024,5/19/2024,Open
+117,Deal Beta,Tagcat,Wiatt Kunkler,Healthcare,Mid-Market,Proposal,88111,63,2/26/2024,9/5/2023,Open
+118,Deal Delta,Voonix,Ettie Batchelder,Retail,Enterprise,Negotiation,228575,63,10/7/2025,6/1/2024,Open
+119,Deal Gamma,Skiptube,Jacki Worsnap,Professional Services,SMB,Closed Won,413919,4,4/20/2025,10/26/2024,Won
+120,Deal Beta,Jaxnation,Bernadina Sullens,Retail,Mid-Market,Qualification,108038,34,3/6/2024,10/5/2024,Open
+121,Deal Beta,Avavee,Perry Picker,Financial Services,Mid-Market,Demo,284636,41,7/27/2024,10/10/2023,Open
+122,Deal Beta,Ntag,Wyatt Gobel,Manufacturing,Mid-Market,Proposal,87820,24,9/19/2024,8/21/2023,Open
+123,Deal Beta,Pixope,Merry Wreight,Financial Services,Mid-Market,Qualification,283028,86,1/8/2024,6/12/2024,Open
+124,Deal Alpha,Photofeed,Virgina Barrows,Financial Services,SMB,Proposal,406540,15,8/30/2024,8/27/2023,Open
+125,Deal Alpha,Realfire,Rodd Danielkiewicz,Retail,SMB,Prospecting,160852,71,10/24/2025,11/2/2023,Open
+126,Deal Gamma,Pixonyx,Rafaello Mompesson,Financial Services,Mid-Market,Negotiation,23733,34,10/13/2024,8/13/2024,Open
+127,Deal Gamma,Feedbug,Dacey Wardel,Healthcare,Enterprise,Demo,391026,8,8/13/2025,1/17/2024,Open
+128,Deal Delta,Brainbox,Ada Proffitt,Healthcare,Enterprise,Prospecting,182839,78,2/3/2024,11/6/2024,Open
+129,Deal Beta,Fivespan,Adrian Scotchmur,Retail,SMB,Closed Won,247869,48,6/5/2024,10/15/2024,Won
+130,Deal Delta,Kayveo,Broddy Dowbakin,Financial Services,Enterprise,Negotiation,282965,22,8/2/2024,6/16/2024,Open
+131,Deal Beta,Avamm,Rosalinde Rodolico,Professional Services,Mid-Market,Proposal,55196,8,12/11/2024,8/3/2023,Open
+132,Deal Alpha,Youspan,Elenore Vearncomb,Financial Services,SMB,Prospecting,169354,53,6/21/2024,4/14/2024,Open
+133,Deal Delta,Thoughtmix,Odetta Bunyard,Manufacturing,SMB,Prospecting,77212,14,7/11/2025,10/23/2023,Open
+134,Deal Beta,Skynoodle,Electra Godehard.sf,Technology,SMB,Prospecting,429857,24,3/6/2024,11/2/2024,Open
+135,Deal Delta,Photobug,Billie MacKellen,Professional Services,SMB,Demo,94608,2,8/13/2025,9/9/2023,Open
+136,Deal Delta,Skipfire,Lizette Dangerfield,Retail,Enterprise,Proposal,387442,26,3/30/2025,11/14/2023,Open
+137,Deal Delta,Centidel,Lita Dewen,Manufacturing,Mid-Market,Qualification,271402,52,10/11/2024,6/4/2024,Open
+138,Deal Gamma,Plambee,Nathan Jenicek,Healthcare,Mid-Market,Negotiation,160860,29,2/22/2025,6/5/2024,Open
+139,Deal Delta,Linkbuzz,Salmon Ambrogiotti,Professional Services,Mid-Market,Demo,90895,56,10/13/2025,6/28/2023,Open
+140,Deal Gamma,InnoZ,Killian Siggs,Professional Services,Enterprise,Demo,197831,33,5/4/2025,7/22/2024,Open
+141,Deal Gamma,Innojam,Linea Grgic,Professional Services,Enterprise,Proposal,240666,17,3/31/2024,8/6/2024,Open
+142,Deal Beta,Minyx,Bobine Ricketts,Professional Services,Enterprise,Prospecting,415210,68,4/10/2024,6/15/2023,Open
+143,Deal Delta,Tagchat,Karie Croci,Professional Services,Enterprise,Demo,101017,3,1/17/2025,10/26/2023,Open
+144,Deal Delta,Leexo,Kenneth Fosberry,Healthcare,Mid-Market,Qualification,308959,82,11/3/2024,7/29/2023,Open
+145,Deal Beta,Kazio,Helene Darbey,Manufacturing,SMB,Prospecting,44223,51,2/2/2025,6/2/2023,Open
+146,Deal Delta,Babbleopia,Jimmie Donat,Financial Services,Mid-Market,Prospecting,233014,44,4/26/2024,12/28/2024,Open
+147,Deal Beta,InnoZ,Madalyn Mapledorum,Healthcare,Enterprise,Closed Lost,89100,59,4/8/2024,9/20/2023,Lost
+148,Deal Beta,Rooxo,Magdalen Halbert,Financial Services,Mid-Market,Qualification,400018,32,2/15/2024,4/24/2024,Open
+149,Deal Delta,Photojam,Myrta MacFall,Technology,SMB,Demo,118824,68,10/10/2025,1/2/2024,Open
+150,Deal Beta,Ozu,Sissie Abramino,Retail,Enterprise,Prospecting,409223,69,5/13/2024,10/29/2023,Open
+151,Deal Alpha,Meevee,Kristy Peppard,Professional Services,SMB,Qualification,91280,5,9/11/2024,9/5/2024,Open
+152,Deal Beta,Twimbo,Kimbell South,Technology,SMB,Negotiation,417348,79,4/8/2024,12/15/2024,Open
+153,Deal Alpha,Meedoo,Bonita Illes,Technology,SMB,Negotiation,300344,41,3/14/2025,2/10/2024,Open
+154,Deal Gamma,Meedoo,Gloria Schonfelder,Professional Services,Enterprise,Qualification,306628,59,4/17/2024,12/4/2023,Open
+155,Deal Delta,LiveZ,Brandais De Caroli,Manufacturing,Enterprise,Demo,360561,71,3/16/2025,1/12/2024,Open
+156,Deal Alpha,Fanoodle,Karilynn Colnett,Healthcare,Enterprise,Qualification,246625,88,4/1/2024,5/22/2024,Open
+157,Deal Gamma,Yakijo,Borg Guarnier,Healthcare,Mid-Market,Qualification,487837,6,9/4/2024,10/23/2024,Open
+158,Deal Alpha,Riffpedia,Goldie Hartlebury,Financial Services,Mid-Market,Proposal,370519,5,10/10/2024,5/5/2024,Open
+159,Deal Beta,Meejo,Tynan Boughey,Healthcare,Mid-Market,Negotiation,62760,72,5/10/2025,7/27/2024,Open
+160,Deal Gamma,Eabox,Kaye Thibodeaux,Financial Services,SMB,Demo,95737,65,8/9/2025,9/18/2024,Open
+161,Deal Alpha,Skipfire,Eveleen Huxtable,Professional Services,SMB,Closed Lost,63477,28,5/31/2024,12/28/2023,Lost
+162,Deal Delta,Voonix,Elayne Coling,Healthcare,Mid-Market,Proposal,450145,83,1/3/2024,11/21/2023,Open
+163,Deal Gamma,Livetube,Eudora Jorger,Professional Services,SMB,Qualification,493540,23,10/10/2024,4/4/2024,Open
+164,Deal Beta,Dazzlesphere,Lorelei Dagworthy,Financial Services,Enterprise,Prospecting,357658,1,7/12/2025,10/5/2023,Open
+165,Deal Delta,Linktype,Jasun Mathonnet,Financial Services,Enterprise,Demo,176488,30,11/5/2025,10/28/2024,Open
+166,Deal Alpha,Topicblab,Baily Loyley,Healthcare,SMB,Prospecting,311756,34,7/16/2024,2/23/2024,Open
+167,Deal Delta,Realpoint,Linn Giorgione,Healthcare,Enterprise,Closed Lost,296401,5,12/20/2025,11/19/2024,Lost
+168,Deal Alpha,Kimia,Ernie Scothern,Professional Services,Mid-Market,Closed Won,31126,56,3/29/2025,7/24/2023,Won
+169,Deal Delta,Kanoodle,Gerti Sheffield,Professional Services,Mid-Market,Prospecting,261649,6,10/24/2025,7/28/2024,Open
+170,Deal Delta,Blogtags,Jo Spieck,Manufacturing,Enterprise,Prospecting,403371,39,7/14/2025,10/23/2024,Open
+171,Deal Beta,Jabberbean,Bunny Brougham,Healthcare,SMB,Prospecting,54880,58,11/2/2024,4/5/2024,Open
+172,Deal Gamma,Twitternation,Vivyanne Robichon,Manufacturing,Mid-Market,Qualification,470620,37,9/23/2025,4/24/2024,Open
+173,Deal Alpha,Browsedrive,Jamie Keelinge,Manufacturing,SMB,Negotiation,478016,36,1/11/2025,12/26/2023,Open
+174,Deal Alpha,Flipbug,Marion Shapira,Financial Services,SMB,Qualification,490011,27,5/31/2024,6/4/2024,Open
+175,Deal Beta,Bluezoom,Melony Dubique,Financial Services,SMB,Prospecting,16462,65,3/14/2024,11/10/2023,Open
+176,Deal Delta,Blogspan,Melanie Flannigan,Professional Services,SMB,Proposal,376241,7,2/28/2025,6/20/2024,Open
+177,Deal Delta,Edgeify,Phineas McMechan,Healthcare,SMB,Qualification,460749,41,11/16/2024,10/16/2023,Open
+178,Deal Beta,Yodo,Adelind Agar,Professional Services,Enterprise,Qualification,179168,6,10/21/2024,9/25/2024,Open
+179,Deal Delta,Photospace,Corby Fumagall,Retail,Enterprise,Demo,360859,62,8/15/2025,6/16/2024,Open
+180,Deal Delta,Dynava,Lillis Brass,Healthcare,SMB,Negotiation,339432,43,6/24/2025,4/5/2024,Open
+181,Deal Gamma,Jetwire,Standford St. Louis,Healthcare,Enterprise,Proposal,260312,60,6/10/2025,12/29/2023,Open
+182,Deal Gamma,Tavu,Annaliese Dine-Hart,Technology,Enterprise,Prospecting,275567,60,10/12/2024,9/9/2024,Open
+183,Deal Gamma,Katz,Pauli Ewbanck,Retail,Enterprise,Qualification,446389,77,7/3/2024,12/16/2023,Open
+184,Deal Alpha,Mynte,Stewart Lympany,Manufacturing,SMB,Qualification,490998,55,6/4/2024,11/4/2024,Open
+185,Deal Delta,Twiyo,Correy Totaro,Healthcare,Enterprise,Prospecting,288547,42,4/6/2025,7/17/2023,Open
+186,Deal Alpha,Livetube,Dennie De Ambrosis,Retail,SMB,Prospecting,341904,39,9/19/2024,10/26/2024,Open
+187,Deal Delta,Jabbersphere,Alfons Shurrock,Healthcare,Enterprise,Prospecting,435444,55,10/12/2024,12/20/2023,Open
+188,Deal Gamma,Thoughtworks,Ozzy Winsom,Healthcare,Mid-Market,Closed Won,175253,46,8/7/2025,8/28/2024,Won
+189,Deal Alpha,Flipbug,Shayne Himsworth,Manufacturing,SMB,Prospecting,214599,70,5/7/2025,9/27/2023,Open
+190,Deal Gamma,Twitterbridge,Ailee Curman,Healthcare,SMB,Qualification,164313,80,5/13/2024,11/8/2024,Open
+191,Deal Delta,Yodoo,Annabelle Bernardoux,Technology,Enterprise,Prospecting,379725,45,11/22/2025,8/18/2023,Open
+192,Deal Beta,Yambee,Del Lissett,Manufacturing,Mid-Market,Demo,360324,61,10/5/2025,9/6/2024,Open
+193,Deal Gamma,Gabspot,Sheila-kathryn Vale,Technology,Enterprise,Prospecting,444796,4,1/4/2024,11/29/2023,Open
+194,Deal Gamma,Yambee,Lenora Ahearne,Financial Services,Mid-Market,Demo,376948,30,12/28/2024,8/29/2024,Open
+195,Deal Beta,Buzzbean,Bondy Whitear,Financial Services,Mid-Market,Proposal,279671,20,8/4/2025,9/7/2023,Open
+196,Deal Gamma,Rhyzio,Julia Burbury,Retail,Enterprise,Demo,146834,59,11/16/2024,12/26/2024,Open
+197,Deal Gamma,Yabox,Beitris Geary,Technology,Mid-Market,Qualification,304311,68,5/15/2024,2/25/2024,Open
+198,Deal Delta,Thoughtworks,Libbie Cameron,Financial Services,Mid-Market,Prospecting,160037,25,8/22/2024,3/20/2024,Open
+199,Deal Gamma,Oyoba,Alecia Tungate,Technology,Enterprise,Prospecting,412467,43,7/1/2025,10/18/2023,Open
+200,Deal Gamma,Bubblemix,Collen Thake,Retail,Enterprise,Qualification,234839,25,7/13/2024,6/11/2024,Open
+201,Deal Beta,Meemm,Dorolisa Yakubov,Healthcare,Mid-Market,Demo,75810,64,11/29/2024,6/21/2024,Open
+202,Deal Alpha,Dazzlesphere,Andy Lafoy,Retail,SMB,Qualification,343789,13,7/19/2025,2/20/2024,Open
+203,Deal Delta,Brightdog,Susana Opy,Financial Services,Enterprise,Prospecting,245379,89,2/6/2024,6/18/2023,Open
+204,Deal Delta,Kwideo,Almira Manske,Financial Services,Mid-Market,Prospecting,383113,49,3/29/2024,1/18/2024,Open
+205,Deal Gamma,Kazio,Ximenez Irwin,Manufacturing,SMB,Prospecting,318404,25,5/15/2024,5/8/2024,Open
+206,Deal Alpha,Yacero,Teddie Sander,Professional Services,SMB,Qualification,384840,39,5/17/2024,12/3/2024,Open
+207,Deal Gamma,Topicshots,Mozes Tezure,Manufacturing,SMB,Closed Won,338413,27,9/18/2025,3/23/2024,Won
+208,Deal Gamma,Dablist,Madeleine Clabburn,Retail,SMB,Prospecting,18957,16,3/7/2024,7/22/2024,Open
+209,Deal Alpha,Skippad,Dixie Blackborow,Professional Services,SMB,Demo,101588,41,11/20/2024,9/23/2024,Open
+210,Deal Delta,Pixoboo,Rollins Canadine,Technology,Enterprise,Proposal,268594,89,9/23/2025,6/18/2024,Open
+211,Deal Beta,Skajo,Rogerio Le Fevre,Manufacturing,Enterprise,Demo,215967,37,3/13/2024,9/9/2024,Open
+212,Deal Gamma,Voonix,Lowrance Litton,Manufacturing,Enterprise,Proposal,274022,12,5/28/2024,2/19/2024,Open
+213,Deal Beta,Nlounge,Creigh Strongitharm,Financial Services,SMB,Proposal,26108,13,4/6/2025,10/20/2023,Open
+214,Deal Beta,Minyx,Ingaberg Beers,Manufacturing,SMB,Proposal,253270,57,5/10/2024,8/12/2024,Open
+215,Deal Beta,Roombo,Merralee Brislawn,Healthcare,Mid-Market,Prospecting,307149,52,2/18/2025,6/9/2024,Open
+216,Deal Gamma,Jaloo,Erina Stanford,Retail,Enterprise,Proposal,98212,5,2/12/2024,7/16/2023,Open
+217,Deal Alpha,Realbridge,Zebedee Stovin,Healthcare,Enterprise,Prospecting,116299,20,7/31/2025,10/24/2023,Open
+218,Deal Alpha,Yodo,Mickie Cuschieri,Technology,SMB,Prospecting,220272,66,4/25/2024,4/2/2024,Open
+219,Deal Beta,Vinte,Welsh Allmen,Financial Services,SMB,Proposal,250267,56,7/30/2025,2/24/2024,Open
+220,Deal Delta,Mymm,Thomasina Lang,Retail,SMB,Closed Won,419233,5,1/16/2024,8/6/2024,Won
+221,Deal Alpha,Thoughtstorm,Remy Baldi,Retail,Mid-Market,Proposal,397133,84,12/16/2025,6/9/2023,Open
+222,Deal Gamma,Skipstorm,Hinze Frankiss,Professional Services,SMB,Qualification,146872,33,6/17/2025,11/2/2024,Open
+223,Deal Alpha,Zoonoodle,Sammy Robardey,Technology,SMB,Qualification,153445,40,6/10/2025,2/20/2024,Open
+224,Deal Delta,Skaboo,Ede Heckle,Professional Services,Enterprise,Proposal,155047,88,6/25/2025,7/1/2023,Open
+225,Deal Gamma,Voonyx,Simeon Clampe,Professional Services,Enterprise,Demo,208399,79,7/17/2024,10/1/2024,Open
+226,Deal Gamma,Zooxo,Giulia Inston,Professional Services,SMB,Qualification,438049,59,8/2/2024,12/5/2023,Open
+227,Deal Alpha,Skinte,Arron Rudgard,Financial Services,Mid-Market,Prospecting,287211,82,6/13/2024,9/13/2023,Open
+228,Deal Gamma,Eayo,Marian Gundry,Manufacturing,Enterprise,Qualification,131462,85,9/29/2025,10/17/2024,Open
+229,Deal Gamma,Skippad,Francisco Perham,Manufacturing,Enterprise,Closed Won,240973,68,2/19/2024,3/16/2024,Won
+230,Deal Delta,Aimbu,Tana Nystrom,Retail,Enterprise,Prospecting,289490,77,11/12/2024,1/25/2024,Open
+231,Deal Gamma,Tagcat,Nicholle Sonley,Technology,Enterprise,Qualification,447231,27,4/29/2024,12/20/2023,Open
+232,Deal Beta,Tekfly,Carma Vegas,Technology,Enterprise,Qualification,151067,68,10/13/2025,6/5/2023,Open
+233,Deal Beta,Jabbersphere,Dori Liles,Manufacturing,Enterprise,Qualification,220191,30,2/15/2024,6/24/2023,Open
+234,Deal Delta,Babbleblab,Sherry Elijahu,Technology,Mid-Market,Qualification,65390,83,3/12/2024,6/2/2024,Open
+235,Deal Delta,Aivee,Marlane Adamowitz,Professional Services,Mid-Market,Closed Lost,187595,75,6/19/2025,8/29/2024,Lost
+236,Deal Beta,Photobean,Auberon Rozea,Professional Services,Enterprise,Negotiation,163885,16,8/14/2025,7/25/2023,Open
+237,Deal Delta,Devify,Willie Draayer,Financial Services,Enterprise,Closed Lost,303752,4,1/29/2024,12/14/2024,Lost
+238,Deal Beta,Mybuzz,Annecorinne Danby,Financial Services,Enterprise,Demo,154668,63,3/16/2024,4/29/2024,Open
+239,Deal Alpha,Skipstorm,Ariel Windebank,Financial Services,Enterprise,Prospecting,268887,37,11/11/2024,8/15/2024,Open
+240,Deal Alpha,Fliptune,Grange Durrand,Financial Services,SMB,Qualification,429771,49,11/10/2025,8/13/2023,Open
+241,Deal Beta,Twinte,Bear Skough,Manufacturing,Enterprise,Closed Won,6949,64,1/26/2024,3/28/2024,Won
+242,Deal Beta,Katz,Vivian Routley,Manufacturing,SMB,Demo,330961,20,5/27/2025,7/30/2024,Open
+243,Deal Beta,Fiveclub,Marylee Bengtsson,Manufacturing,SMB,Prospecting,60230,13,6/25/2024,8/28/2024,Open
+244,Deal Alpha,Quatz,Kendrick Dumblton,Technology,Enterprise,Qualification,105612,7,11/4/2024,8/7/2023,Open
+245,Deal Gamma,Voolith,Jillian Farrance,Healthcare,Enterprise,Prospecting,301119,40,12/10/2024,5/31/2024,Open
+246,Deal Beta,Dazzlesphere,Bucky McMenemy,Financial Services,Mid-Market,Prospecting,416151,35,8/18/2024,9/15/2024,Open
+247,Deal Alpha,Yodoo,Trixi Greger,Professional Services,Enterprise,Prospecting,30703,45,11/30/2024,6/14/2024,Open
+248,Deal Delta,Skaboo,Angel Frary,Technology,Mid-Market,Negotiation,290881,14,1/8/2024,5/20/2024,Open
+249,Deal Alpha,Pixoboo,Olympe Shane,Technology,Mid-Market,Qualification,164253,21,3/24/2024,9/8/2024,Open
+250,Deal Alpha,Shufflester,Chance Champneys,Technology,Enterprise,Qualification,192334,50,9/30/2025,10/2/2024,Open
+251,Deal Alpha,Zooxo,Aristotle Barstow,Professional Services,Mid-Market,Demo,364142,15,9/9/2025,1/31/2024,Open
+252,Deal Beta,Fiveclub,Rey Bales,Manufacturing,SMB,Closed Lost,196287,21,12/21/2024,7/4/2024,Lost
+253,Deal Alpha,Bluejam,Fancy Reckless,Retail,Mid-Market,Proposal,216207,59,3/30/2024,12/31/2023,Open
+254,Deal Alpha,Bubblemix,Kareem Duns,Retail,Mid-Market,Proposal,349096,75,7/14/2025,12/5/2024,Open
+255,Deal Gamma,Flipstorm,Latia Drust,Retail,Enterprise,Prospecting,434383,37,4/14/2025,6/3/2023,Open
+256,Deal Gamma,Youfeed,Briney Riccio,Retail,SMB,Proposal,300333,50,11/28/2024,8/14/2024,Open
+257,Deal Delta,Feedmix,Sonnie Guinan,Professional Services,Enterprise,Prospecting,67364,19,12/24/2025,9/16/2024,Open
+258,Deal Delta,Skipfire,Peggie Danilevich,Healthcare,SMB,Proposal,59496,25,5/8/2024,6/2/2024,Open
+259,Deal Alpha,Dynazzy,Tanya Hutcheon,Retail,Mid-Market,Prospecting,494419,12,10/2/2025,1/13/2024,Open
+260,Deal Gamma,Mita,Bird Humby,Manufacturing,Mid-Market,Prospecting,215610,67,10/25/2025,11/7/2023,Open
+261,Deal Gamma,Realbuzz,Gael Hodgets,Healthcare,SMB,Prospecting,165246,11,1/23/2024,2/2/2024,Open
+262,Deal Gamma,Zava,Dolly Mooring,Manufacturing,SMB,Proposal,75942,10,2/2/2024,10/28/2023,Open
+263,Deal Gamma,Eare,Nadeen Newland,Technology,Mid-Market,Prospecting,8988,69,12/3/2025,2/9/2024,Open
+264,Deal Gamma,Buzzbean,Aridatha Lilley,Professional Services,Enterprise,Prospecting,274437,35,9/7/2025,10/25/2024,Open
+265,Deal Alpha,Dynabox,Lu Cope,Healthcare,Mid-Market,Negotiation,126215,4,3/15/2024,11/4/2024,Open
+266,Deal Beta,Dynava,Annabel Hargroves,Technology,SMB,Proposal,167228,11,2/3/2024,10/1/2024,Open
+267,Deal Alpha,Oba,Maximilian Strutley,Healthcare,Mid-Market,Negotiation,314715,66,9/18/2025,7/4/2023,Open
+268,Deal Gamma,Jabbertype,Loleta Eakley,Retail,Mid-Market,Qualification,325821,27,6/19/2025,1/12/2024,Open
+269,Deal Beta,Quimba,Gilberta Fieldstone,Retail,Enterprise,Negotiation,460527,57,11/13/2024,9/19/2024,Open
+270,Deal Gamma,Youbridge,Randi Pogosian,Technology,SMB,Demo,259008,75,8/13/2024,12/25/2024,Open
+271,Deal Alpha,Kwimbee,Aubree Reynard,Financial Services,Mid-Market,Negotiation,55252,77,1/8/2025,9/18/2023,Open
+272,Deal Gamma,Wikivu,Bidget Tomasik,Technology,Enterprise,Prospecting,61619,34,6/27/2024,10/4/2024,Open
+273,Deal Alpha,Bubbletube,Bianka Billyeald,Healthcare,SMB,Demo,196918,89,11/4/2024,4/20/2024,Open
+274,Deal Delta,Skalith,Allsun Laurent,Technology,Enterprise,Qualification,134223,40,4/15/2024,10/29/2024,Open
+275,Deal Alpha,Photofeed,Ethelda Loads,Retail,Enterprise,Prospecting,95357,36,10/25/2024,5/5/2024,Open
+276,Deal Beta,Feedfire,Quintana Dudenie,Technology,SMB,Prospecting,442846,20,2/12/2024,7/27/2024,Open
+277,Deal Alpha,Oyope,Enrico Daffey,Professional Services,Mid-Market,Prospecting,388751,7,10/25/2024,12/1/2024,Open
+278,Deal Delta,Mynte,Devina Teresia,Financial Services,Enterprise,Demo,414433,35,8/30/2024,2/6/2024,Open
+279,Deal Beta,Ailane,Claretta Rodenhurst,Retail,SMB,Prospecting,295544,60,2/12/2025,9/13/2024,Open
+280,Deal Gamma,Blognation,Denny Batcheldor,Healthcare,SMB,Demo,406428,67,2/3/2025,5/25/2024,Open
+281,Deal Beta,Jayo,Tracee Featley,Healthcare,Enterprise,Demo,245288,51,1/28/2024,4/7/2024,Open
+282,Deal Alpha,Flipopia,Rhona Snowsill,Financial Services,Enterprise,Demo,201765,56,9/5/2024,10/4/2024,Open
+283,Deal Beta,Topicstorm,Nanny Megarrell,Retail,Mid-Market,Closed Lost,209804,60,4/3/2024,7/9/2023,Lost
+284,Deal Delta,Voonte,Tore Borrel,Professional Services,Enterprise,Prospecting,141695,6,2/25/2025,10/14/2023,Open
+285,Deal Beta,Jaxworks,Yolanthe Beavers,Retail,Enterprise,Closed Lost,388093,17,4/9/2025,5/10/2024,Lost
+286,Deal Delta,Photospace,Amie Surby,Professional Services,SMB,Qualification,180494,85,7/14/2024,8/28/2024,Open
+287,Deal Beta,Shuffledrive,Tiffie Topham,Retail,Enterprise,Demo,496155,55,6/30/2025,12/21/2023,Open
+288,Deal Delta,Latz,Shell Ancell,Manufacturing,Mid-Market,Closed Lost,235953,69,9/16/2024,6/9/2024,Lost
+289,Deal Beta,Kamba,Joel Vernham,Professional Services,Enterprise,Demo,129800,54,6/26/2025,8/5/2023,Open
+290,Deal Beta,Gigabox,Elnora Burleton,Healthcare,Mid-Market,Prospecting,247016,41,5/26/2025,11/15/2023,Open
+291,Deal Beta,Jaxworks,Eddi Woodage,Technology,Enterprise,Prospecting,205604,76,5/4/2024,11/4/2023,Open
+292,Deal Gamma,Tagopia,Rosaline Wixon,Technology,SMB,Prospecting,389623,29,6/12/2024,6/19/2023,Open
+293,Deal Delta,Leenti,Leland Ellissen,Retail,Enterprise,Prospecting,155684,80,6/20/2024,6/3/2023,Open
+294,Deal Beta,Twitterlist,Morse Packer,Manufacturing,SMB,Qualification,159799,33,1/26/2025,11/18/2023,Open
+295,Deal Alpha,Jatri,Fletch Smorthit,Healthcare,SMB,Qualification,239879,68,9/18/2025,8/29/2024,Open
+296,Deal Gamma,Einti,Blythe Stokey,Technology,SMB,Qualification,125829,57,5/29/2024,7/19/2023,Open
+297,Deal Gamma,Zoomdog,Carce Raffels,Manufacturing,Mid-Market,Qualification,388089,57,2/26/2025,2/2/2024,Open
+298,Deal Beta,Feedbug,Kai Fullbrook,Healthcare,Mid-Market,Closed Lost,148147,59,8/22/2025,11/22/2024,Lost
+299,Deal Delta,Fiveclub,Merry Gariff,Financial Services,SMB,Proposal,343492,9,11/15/2024,11/3/2023,Open
+300,Deal Gamma,Dynabox,Marti Doerffer,Financial Services,Mid-Market,Qualification,68872,11,4/12/2024,11/14/2023,Open
+301,Deal Delta,Zoomdog,Barth Akister,Technology,Mid-Market,Qualification,464517,58,9/15/2025,9/10/2024,Open
+302,Deal Delta,Flashdog,Kristian Martine,Manufacturing,Mid-Market,Prospecting,65093,1,7/20/2025,7/15/2024,Open
+303,Deal Delta,Twinte,Lynn Moggie,Healthcare,Enterprise,Qualification,38794,16,11/16/2025,10/27/2023,Open
+304,Deal Beta,Viva,Aleta Nyssens,Healthcare,Mid-Market,Closed Lost,272519,87,12/25/2025,9/26/2023,Lost
+305,Deal Gamma,Nlounge,Allyn Jenyns,Healthcare,Mid-Market,Qualification,204058,34,10/23/2025,1/28/2024,Open
+306,Deal Delta,Bubbletube,Bren Fache,Professional Services,Mid-Market,Prospecting,463099,37,8/2/2025,6/25/2023,Open
+307,Deal Gamma,Voonder,Gonzalo Wickenden,Retail,Enterprise,Prospecting,395989,33,1/30/2025,5/21/2024,Open
+308,Deal Delta,Skinder,Kerrin Terzi,Retail,Mid-Market,Prospecting,352439,57,2/2/2024,9/28/2024,Open
+309,Deal Alpha,Mydeo,Blinny Romera,Technology,Enterprise,Demo,275305,87,1/21/2025,1/27/2024,Open
+310,Deal Delta,Katz,Ephrem Riby,Financial Services,Enterprise,Closed Lost,334297,81,1/28/2024,6/17/2024,Lost
+311,Deal Alpha,Thoughtstorm,Queenie Gready,Manufacturing,Enterprise,Demo,196783,20,8/13/2024,11/29/2023,Open
+312,Deal Delta,Realpoint,Erek Engledow,Healthcare,SMB,Prospecting,161084,85,6/15/2024,7/20/2024,Open
+313,Deal Beta,Realcube,Sadye Whisker,Financial Services,Enterprise,Prospecting,65285,83,3/20/2025,8/24/2024,Open
+314,Deal Gamma,Thoughtstorm,Berton Beames,Manufacturing,Mid-Market,Proposal,251008,57,12/24/2024,6/30/2024,Open
+315,Deal Beta,Gabcube,Kleon Mahoney,Financial Services,Enterprise,Prospecting,437667,22,4/15/2025,10/4/2023,Open
+316,Deal Gamma,Abatz,Shermie Prothero,Financial Services,Mid-Market,Closed Won,463663,21,11/5/2025,12/5/2023,Won
+317,Deal Alpha,Blogtags,Cristine Dreher,Financial Services,SMB,Proposal,277669,73,1/15/2025,10/1/2023,Open
+318,Deal Alpha,Twitterwire,Harli Aleksashin,Technology,SMB,Qualification,186191,42,7/22/2024,8/9/2024,Open
+319,Deal Delta,Aimbu,Tony Popelay,Technology,Mid-Market,Qualification,362750,8,3/27/2024,1/26/2024,Open
+320,Deal Alpha,Kimia,Alyson Mullaly,Retail,Mid-Market,Prospecting,471153,69,2/21/2024,8/17/2023,Open
+321,Deal Alpha,Rhynyx,Rodrigo Vynehall,Healthcare,SMB,Prospecting,169954,70,8/24/2025,8/21/2024,Open
+322,Deal Gamma,Eire,Isidro Heineke,Healthcare,Enterprise,Prospecting,341792,55,5/18/2025,10/22/2023,Open
+323,Deal Gamma,Skaboo,Suzanne Cockaday,Technology,Enterprise,Qualification,112883,11,9/15/2025,12/10/2024,Open
+324,Deal Beta,Midel,Nicola Nicolson,Financial Services,Mid-Market,Proposal,366477,3,10/23/2024,10/2/2023,Open
+325,Deal Beta,Dynava,Emmeline Delion,Manufacturing,SMB,Qualification,291489,3,9/9/2024,11/9/2024,Open
+326,Deal Delta,Vidoo,Jobye Fossick,Professional Services,Mid-Market,Prospecting,491072,39,12/4/2025,6/13/2024,Open
+327,Deal Beta,Blogtags,Trish Kinnoch,Healthcare,SMB,Prospecting,167249,19,3/24/2024,2/25/2024,Open
+328,Deal Alpha,Meezzy,Amble Pocke,Financial Services,SMB,Qualification,19141,64,1/6/2024,8/22/2024,Open
+329,Deal Gamma,Roomm,Aeriela Attyeo,Financial Services,Mid-Market,Closed Lost,299769,19,9/29/2024,1/17/2024,Lost
+330,Deal Alpha,Realcube,Miguela Sheber,Financial Services,SMB,Qualification,401248,66,4/7/2024,1/25/2024,Open
+331,Deal Delta,Tagpad,Rubia Silwood,Financial Services,Enterprise,Negotiation,265817,46,10/7/2025,11/4/2023,Open
+332,Deal Beta,Kazu,Birdie Bolan,Healthcare,Enterprise,Qualification,118020,74,12/7/2025,7/23/2024,Open
+333,Deal Gamma,Teklist,Tiffie Scolli,Healthcare,Mid-Market,Prospecting,218417,52,10/13/2025,8/30/2023,Open
+334,Deal Gamma,Gabtune,Allie Gile,Financial Services,Mid-Market,Demo,94981,81,4/16/2024,4/24/2024,Open
+335,Deal Alpha,Jaxspan,Stacee Squelch,Retail,Enterprise,Demo,108551,85,8/25/2024,12/3/2024,Open
+336,Deal Alpha,Meevee,Geri Cornier,Technology,Enterprise,Qualification,341758,84,5/3/2024,8/1/2023,Open
+337,Deal Delta,Livetube,Letty Trodd,Manufacturing,Mid-Market,Proposal,115479,63,2/9/2024,12/16/2024,Open
+338,Deal Beta,Shufflester,Dorrie Waywell,Technology,Enterprise,Prospecting,314635,64,1/27/2024,7/21/2024,Open
+339,Deal Delta,Twitterlist,Lurlene Ginie,Manufacturing,Enterprise,Prospecting,27525,89,5/24/2024,1/8/2024,Open
+340,Deal Delta,Quinu,Nobie Aaron,Manufacturing,Mid-Market,Prospecting,472550,61,3/28/2024,4/18/2024,Open
+341,Deal Gamma,Brainverse,Filbert Baddam,Financial Services,Enterprise,Qualification,305874,49,2/2/2024,11/18/2023,Open
+342,Deal Delta,Gevee,Bard Ungaretti,Healthcare,Mid-Market,Qualification,302275,3,12/1/2024,6/13/2023,Open
+343,Deal Beta,Skimia,Myrah Flather,Technology,SMB,Prospecting,359958,40,7/29/2024,8/8/2023,Open
+344,Deal Beta,Vimbo,Annamarie Castillon,Financial Services,SMB,Prospecting,427132,57,7/10/2025,10/26/2023,Open
+345,Deal Beta,Brainlounge,Merrily Mannooch,Retail,SMB,Qualification,251361,60,12/28/2024,6/13/2023,Open
+346,Deal Alpha,Innotype,Leisha Wyrall,Healthcare,Mid-Market,Proposal,14579,70,5/29/2025,1/23/2024,Open
+347,Deal Delta,Linkbridge,Edith Braunston,Healthcare,SMB,Prospecting,108321,80,10/21/2024,3/10/2024,Open
+348,Deal Beta,Zazio,Milissent Lamar,Technology,SMB,Proposal,458457,7,2/26/2025,10/29/2024,Open
+349,Deal Gamma,Thoughtstorm,Suzie Szymanski,Technology,SMB,Negotiation,462070,2,8/23/2024,5/4/2024,Open
+350,Deal Beta,Jazzy,Filippo Tuxill,Professional Services,SMB,Prospecting,349611,26,9/6/2025,5/1/2024,Open
+351,Deal Gamma,Yakidoo,Marji Verna,Technology,SMB,Closed Lost,317491,75,2/12/2024,3/26/2024,Lost
+352,Deal Delta,Mita,Yance Rosenfield,Retail,SMB,Qualification,384396,29,6/13/2025,8/20/2024,Open
+353,Deal Gamma,Youfeed,Adelaida Grieg,Professional Services,Mid-Market,Qualification,247506,20,7/17/2025,3/31/2024,Open
+354,Deal Gamma,Tagpad,Delores Belfelt,Manufacturing,SMB,Qualification,430286,87,12/24/2025,3/5/2024,Open
+355,Deal Delta,Feedfish,Brett Juszkiewicz,Professional Services,Enterprise,Prospecting,315250,30,11/3/2025,9/21/2023,Open
+356,Deal Delta,Latz,Katinka Saxon,Technology,SMB,Closed Lost,67957,55,8/14/2025,2/25/2024,Lost
+357,Deal Delta,Jabbertype,Ebonee Piel,Retail,Mid-Market,Closed Lost,354908,45,2/1/2024,4/16/2024,Lost
+358,Deal Beta,Fliptune,Karlis Macourek,Manufacturing,SMB,Qualification,368299,83,6/1/2024,11/7/2023,Open
+359,Deal Gamma,Eabox,Ingaborg Cesaric,Retail,SMB,Proposal,72974,21,10/16/2025,12/28/2023,Open
+360,Deal Gamma,Camido,Warde McSwan,Professional Services,Enterprise,Negotiation,295393,59,12/16/2024,1/9/2024,Open
+361,Deal Delta,Quire,Dasya Pallaske,Technology,Mid-Market,Closed Won,264816,53,11/25/2025,6/28/2024,Won
+362,Deal Delta,Skyble,Brade Downgate,Retail,Enterprise,Demo,365993,12,7/9/2024,11/6/2023,Open
+363,Deal Beta,Feedbug,Stearn Millmore,Manufacturing,Enterprise,Proposal,394999,14,11/26/2025,8/3/2023,Open
+364,Deal Beta,Twitterlist,Petrina Becaris,Manufacturing,Enterprise,Qualification,126802,79,1/26/2025,7/6/2024,Open
+365,Deal Gamma,Divavu,Jayme Whiley,Financial Services,Mid-Market,Closed Lost,7176,86,11/8/2024,6/28/2023,Lost
+366,Deal Delta,Skimia,Curr Boswood,Retail,Mid-Market,Qualification,310174,80,10/18/2024,10/11/2024,Open
+367,Deal Alpha,Lazzy,Vittorio Bruford,Retail,Enterprise,Demo,202496,78,2/5/2025,10/26/2023,Open
+368,Deal Alpha,Linklinks,Odella Pickavance,Professional Services,Mid-Market,Prospecting,200924,53,9/10/2024,10/14/2023,Open
+369,Deal Beta,Jamia,Kate Elsdon,Retail,Mid-Market,Prospecting,424612,22,6/26/2025,2/7/2024,Open
+370,Deal Alpha,Tekfly,Farris Gandy,Technology,Enterprise,Proposal,26699,16,10/13/2025,12/8/2023,Open
+371,Deal Delta,Yata,Web Blaber,Manufacturing,Mid-Market,Closed Lost,417239,20,6/3/2025,12/11/2024,Lost
+372,Deal Delta,Jaloo,Becki Brandon,Professional Services,Mid-Market,Closed Won,432411,82,7/7/2025,2/20/2024,Won
+373,Deal Beta,Eare,Esra Hunn,Technology,Enterprise,Demo,434335,84,1/30/2025,12/11/2023,Open
+374,Deal Alpha,Kwideo,Harlin Josowitz,Technology,Enterprise,Negotiation,22591,44,10/2/2025,6/18/2023,Open
+375,Deal Alpha,Yozio,Lexi O'Mullally,Healthcare,SMB,Qualification,22361,61,11/3/2025,1/9/2024,Open
+376,Deal Alpha,Feednation,Chancey Fromant,Retail,SMB,Qualification,207750,23,11/7/2024,6/2/2023,Open
+377,Deal Gamma,Kare,Rosetta Heiner,Healthcare,Enterprise,Proposal,357574,32,8/31/2024,1/3/2024,Open
+378,Deal Delta,Realblab,Jannelle Tebbut,Financial Services,SMB,Negotiation,35254,32,12/4/2025,9/21/2024,Open
+379,Deal Beta,BlogXS,Hulda Solan,Manufacturing,Enterprise,Negotiation,87102,31,10/23/2024,8/22/2023,Open
+380,Deal Beta,Yodoo,Paddy Petrollo,Healthcare,SMB,Prospecting,184657,83,2/17/2024,9/15/2024,Open
+381,Deal Gamma,Gabtype,Addy Scardafield,Professional Services,Mid-Market,Qualification,186165,56,7/31/2025,8/1/2024,Open
+382,Deal Alpha,Pixope,Lorenzo Dimock,Retail,Enterprise,Proposal,17703,21,5/11/2025,7/4/2023,Open
+383,Deal Delta,Cogilith,Godfrey Whetnall,Technology,Mid-Market,Prospecting,282883,90,4/5/2024,1/5/2024,Open
+384,Deal Alpha,Oodoo,Tabbie Rosencrantz,Financial Services,Enterprise,Negotiation,296649,80,4/24/2025,3/27/2024,Open
+385,Deal Gamma,Jaxspan,Gregor Zavattari,Manufacturing,Enterprise,Demo,415801,17,9/28/2024,7/17/2024,Open
+386,Deal Alpha,Meevee,Annalise Leyban,Financial Services,Mid-Market,Prospecting,445636,89,8/19/2024,12/12/2023,Open
+387,Deal Beta,Layo,Harriot Le Pine,Financial Services,SMB,Closed Won,139725,88,1/30/2024,11/15/2024,Won
+388,Deal Beta,Lazz,Annetta Simon,Manufacturing,Mid-Market,Demo,38030,5,11/24/2024,8/13/2023,Open
+389,Deal Beta,Dabfeed,Mikel Gritskov,Retail,Mid-Market,Prospecting,91196,3,5/28/2025,8/6/2024,Open
+390,Deal Gamma,Blogpad,Konstanze Hanhard,Healthcare,Mid-Market,Closed Won,339833,57,12/8/2024,9/16/2024,Won
+391,Deal Delta,Twinder,Raine Hilary,Manufacturing,SMB,Prospecting,135864,31,6/26/2025,4/20/2024,Open
+392,Deal Delta,Twitterbeat,Galvin Rayhill,Manufacturing,Mid-Market,Qualification,152267,19,1/29/2024,7/18/2024,Open
+393,Deal Beta,Fivebridge,Dorine Tibald,Professional Services,Enterprise,Negotiation,21186,17,6/13/2025,8/1/2023,Open
+394,Deal Alpha,Zoonoodle,Marge McKeachie,Financial Services,SMB,Prospecting,459026,15,6/10/2024,9/22/2023,Open
+395,Deal Alpha,Brightdog,Caldwell Joll,Healthcare,Mid-Market,Qualification,243616,10,5/25/2025,7/9/2023,Open
+396,Deal Delta,Skippad,Annemarie Blaine,Professional Services,SMB,Prospecting,371236,1,10/5/2025,11/4/2024,Open
+397,Deal Alpha,Quamba,Modestia Speller,Manufacturing,SMB,Prospecting,222935,83,5/19/2025,1/1/2024,Open
+398,Deal Alpha,Photobean,Huberto Beaushaw,Financial Services,Mid-Market,Demo,269334,4,10/12/2024,10/25/2023,Open
+399,Deal Gamma,Blogtags,Sadye Shankster,Financial Services,Mid-Market,Demo,488251,81,6/28/2024,10/10/2023,Open
+400,Deal Gamma,Topicstorm,Eirena Woloschin,Retail,Mid-Market,Demo,280348,8,1/19/2024,1/20/2024,Open
+401,Deal Alpha,Dabfeed,Abra Melbourne,Healthcare,Mid-Market,Negotiation,186353,57,3/18/2024,11/3/2023,Open
+402,Deal Beta,Topicstorm,Siana Silby,Healthcare,Enterprise,Prospecting,108018,15,7/10/2025,5/27/2024,Open
+403,Deal Delta,Edgewire,Stearn Bosomworth,Manufacturing,Mid-Market,Demo,423420,33,3/22/2024,10/24/2024,Open
+404,Deal Gamma,Buzzster,Rockey Murt,Technology,Mid-Market,Demo,393264,13,11/9/2025,5/6/2024,Open
+405,Deal Alpha,Zoonder,Ambros Mulcaster,Manufacturing,SMB,Prospecting,380693,81,4/15/2024,6/16/2024,Open
+406,Deal Beta,Bubblemix,Wallie Healeas,Professional Services,Mid-Market,Negotiation,259291,36,4/19/2024,8/14/2024,Open
+407,Deal Gamma,Zoozzy,Sven Basham,Healthcare,SMB,Prospecting,98107,28,2/3/2024,1/11/2024,Open
+408,Deal Delta,Blogpad,Melicent Drews,Professional Services,Enterprise,Proposal,148310,8,5/26/2024,1/26/2024,Open
+409,Deal Gamma,Meetz,Jaclin Dugget,Manufacturing,Enterprise,Prospecting,249977,74,6/1/2025,8/28/2023,Open
+410,Deal Beta,Dabfeed,Merle Sprules,Manufacturing,Enterprise,Demo,439740,55,1/4/2024,2/23/2024,Open
+411,Deal Delta,Blogspan,Sydelle Scarff,Healthcare,Enterprise,Qualification,409582,33,1/13/2025,2/2/2024,Open
+412,Deal Delta,Voolia,Davida Imms,Manufacturing,Mid-Market,Prospecting,422237,79,11/2/2024,9/4/2023,Open
+413,Deal Delta,Photobean,Veda Sayburn,Technology,SMB,Demo,464531,26,12/17/2025,12/2/2023,Open
+414,Deal Delta,Linktype,Kimbra Toombes,Professional Services,Enterprise,Qualification,6805,75,4/20/2025,8/11/2023,Open
+415,Deal Delta,Dynazzy,Annmarie Rubinivitz,Healthcare,Enterprise,Closed Lost,495723,20,2/26/2024,10/31/2023,Lost
+416,Deal Beta,Oyonder,Dulcie Cumo,Healthcare,Enterprise,Proposal,301347,81,7/18/2025,2/27/2024,Open
+417,Deal Delta,Eazzy,Eddy Tythe,Technology,Enterprise,Demo,289663,57,8/11/2025,7/24/2023,Open
+418,Deal Delta,Zava,Erin Juzek,Manufacturing,SMB,Negotiation,475368,43,6/7/2024,10/3/2023,Open
+419,Deal Delta,Yabox,Rita Baldassi,Manufacturing,SMB,Demo,287525,2,7/31/2025,11/20/2024,Open
+420,Deal Gamma,Riffpath,Vincents Amery,Professional Services,Enterprise,Qualification,198024,14,1/7/2025,7/22/2023,Open
+421,Deal Beta,Gabspot,Mathian Michelle,Retail,SMB,Closed Won,37796,39,5/8/2024,6/29/2023,Won
+422,Deal Gamma,Dynava,Katy Ranscome,Technology,Enterprise,Prospecting,259654,4,3/9/2024,12/2/2023,Open
+423,Deal Delta,Zoomcast,Ardelis Melding,Financial Services,Mid-Market,Demo,281959,51,5/15/2024,8/14/2023,Open
+424,Deal Alpha,Skinte,Major Caldecott,Financial Services,Mid-Market,Qualification,130179,24,6/23/2024,11/22/2024,Open
+425,Deal Beta,Jetwire,Polly Voas,Professional Services,SMB,Prospecting,434709,36,2/24/2025,9/1/2024,Open
+426,Deal Alpha,Eire,Haskell Perott,Financial Services,Enterprise,Qualification,220495,55,12/2/2025,9/7/2023,Open
+427,Deal Alpha,Vipe,Cello Lozano,Technology,Enterprise,Demo,10850,72,6/26/2024,8/31/2024,Open
+428,Deal Delta,Divanoodle,Ive Skirrow,Technology,Enterprise,Negotiation,131315,16,2/9/2025,3/13/2024,Open
+429,Deal Beta,Buzzdog,Josepha Knightsbridge,Technology,Enterprise,Demo,155156,27,5/29/2024,10/24/2023,Open
+430,Deal Alpha,Trilia,Cristabel Cromer,Professional Services,Enterprise,Negotiation,379270,40,8/27/2024,3/31/2024,Open
+431,Deal Beta,Fivechat,Vincenz Pedlow,Technology,Mid-Market,Proposal,499517,65,3/18/2025,5/20/2024,Open
+432,Deal Beta,Chatterbridge,Lebbie Lovett,Retail,Enterprise,Negotiation,232244,26,4/7/2025,11/25/2024,Open
+433,Deal Beta,Camido,Jenine Fowlds,Healthcare,SMB,Qualification,387900,6,12/27/2025,11/24/2024,Open
+434,Deal Beta,Demizz,Lammond Fontes,Retail,Enterprise,Closed Won,232062,5,2/9/2025,9/1/2023,Won
+435,Deal Delta,Kwilith,Clayson Tofano,Financial Services,Enterprise,Demo,175171,77,5/8/2024,10/28/2023,Open
+436,Deal Delta,Fiveclub,Deanne Duckworth,Manufacturing,Mid-Market,Prospecting,392539,53,10/13/2024,5/28/2024,Open
+437,Deal Alpha,Flashpoint,Alvan Jendrich,Manufacturing,SMB,Qualification,223600,49,7/10/2024,2/26/2024,Open
+438,Deal Delta,Devify,Pattin Monksfield,Manufacturing,SMB,Prospecting,471433,39,7/29/2025,11/5/2024,Open
+439,Deal Alpha,Cogibox,Haze Permain,Professional Services,Mid-Market,Qualification,201264,25,5/31/2025,12/12/2024,Open
+440,Deal Delta,Photofeed,Winona Weekes,Retail,Enterprise,Qualification,14361,42,5/3/2024,12/14/2023,Open
+441,Deal Delta,Mita,Bruce Ickovic,Healthcare,Mid-Market,Prospecting,383730,37,8/11/2024,9/16/2024,Open
+442,Deal Gamma,Shufflebeat,Tansy Sewart,Professional Services,Enterprise,Prospecting,379465,78,9/23/2024,1/14/2024,Open
+443,Deal Beta,Devify,Truda Schettini,Manufacturing,SMB,Closed Lost,231864,4,7/22/2024,9/13/2023,Lost
+444,Deal Beta,Yakidoo,Ailsun Binton,Retail,Mid-Market,Prospecting,237021,31,5/1/2024,11/24/2023,Open
+445,Deal Delta,Yabox,Tootsie Sandford,Professional Services,Mid-Market,Qualification,461155,56,6/14/2024,11/6/2023,Open
+446,Deal Beta,Roodel,Jacob Miskimmon,Manufacturing,Enterprise,Proposal,274025,80,4/14/2024,9/10/2024,Open
+447,Deal Gamma,Wordpedia,Even Beccero,Retail,SMB,Prospecting,81388,43,1/3/2025,8/6/2024,Open
+448,Deal Alpha,Avaveo,Lindy Cotelard,Financial Services,Mid-Market,Qualification,115718,60,3/13/2024,7/9/2023,Open
+449,Deal Alpha,Vitz,Minny Alberti,Professional Services,SMB,Qualification,14750,4,5/11/2024,6/3/2024,Open
+450,Deal Gamma,Topiczoom,Lotte Murphy,Manufacturing,Enterprise,Proposal,394092,42,4/8/2024,2/11/2024,Open
+451,Deal Gamma,Twitterlist,Mariejeanne Spiaggia,Financial Services,Mid-Market,Negotiation,363458,18,5/23/2025,12/22/2024,Open
+452,Deal Gamma,Brainsphere,Frederich Callam,Retail,Mid-Market,Closed Lost,82734,71,9/23/2024,12/4/2024,Lost
+453,Deal Delta,Fadeo,Evelyn Howler,Professional Services,Enterprise,Proposal,460273,41,6/14/2024,11/11/2024,Open
+454,Deal Gamma,Skippad,Rainer Ivakhin,Professional Services,Enterprise,Demo,412082,75,10/19/2025,5/15/2024,Open
+455,Deal Alpha,Jaxnation,Ward Richford,Technology,SMB,Negotiation,329499,60,7/8/2025,11/25/2024,Open
+456,Deal Gamma,Muxo,Merrilee Stronge,Professional Services,Mid-Market,Qualification,143759,41,6/4/2024,8/29/2023,Open
+457,Deal Delta,Feedfire,Twila Reye,Healthcare,SMB,Negotiation,225463,71,12/15/2025,8/8/2024,Open
+458,Deal Beta,Tagtune,Carita Mazzeo,Financial Services,Enterprise,Closed Lost,397182,5,2/18/2024,8/23/2023,Lost
+459,Deal Beta,Teklist,Juan Surgen,Manufacturing,SMB,Proposal,354763,6,1/25/2025,5/5/2024,Open
+460,Deal Alpha,Gabvine,Ahmed Cescot,Professional Services,Mid-Market,Demo,247502,69,11/8/2025,7/7/2024,Open
+461,Deal Alpha,JumpXS,Tiffani Rummery,Technology,Enterprise,Demo,294864,37,7/6/2024,11/9/2024,Open
+462,Deal Delta,Innojam,Mitzi Tripet,Retail,Enterprise,Negotiation,151737,9,6/22/2024,2/24/2024,Open
+463,Deal Alpha,Katz,Lyda Galsworthy,Manufacturing,SMB,Closed Won,51705,35,4/25/2025,8/22/2024,Won
+464,Deal Alpha,Gabtype,Cordelia Randales,Financial Services,Enterprise,Prospecting,285696,1,7/23/2024,7/13/2023,Open
+465,Deal Delta,Edgetag,Enos Feldstein,Financial Services,Enterprise,Proposal,149609,41,4/18/2024,4/30/2024,Open
+466,Deal Gamma,Lazzy,Donnie Sinton,Retail,SMB,Prospecting,439839,16,10/23/2025,4/13/2024,Open
+467,Deal Alpha,Jayo,Lilyan Depka,Healthcare,Enterprise,Proposal,280647,64,3/16/2025,9/8/2023,Open
+468,Deal Beta,Twitternation,Cecil Querree,Manufacturing,SMB,Prospecting,417792,70,10/9/2025,9/5/2024,Open
+469,Deal Beta,Oozz,Dita Pinck,Professional Services,Enterprise,Demo,466431,81,9/18/2025,7/17/2023,Open
+470,Deal Alpha,Fivespan,Ryann Normanville,Retail,Enterprise,Prospecting,71561,26,5/6/2025,5/14/2024,Open
+471,Deal Gamma,Linktype,Quintana Epilet,Financial Services,Enterprise,Closed Lost,31276,53,12/27/2025,3/18/2024,Lost
+472,Deal Gamma,Skyndu,Diandra Pfeiffer,Financial Services,Mid-Market,Prospecting,476378,75,12/10/2024,4/21/2024,Open
+473,Deal Gamma,Divanoodle,Nathanil Vakhrushev,Healthcare,Mid-Market,Demo,489496,3,8/6/2024,6/2/2024,Open
+474,Deal Gamma,Browsezoom,Rochette Trevena,Financial Services,Mid-Market,Qualification,301524,9,1/31/2025,8/4/2024,Open
+475,Deal Delta,Browseblab,Eddy Rice,Healthcare,Mid-Market,Proposal,95770,53,10/22/2025,12/27/2024,Open
+476,Deal Gamma,Photolist,Tally Tidman,Healthcare,Mid-Market,Prospecting,335402,47,9/19/2024,8/6/2024,Open
+477,Deal Alpha,Innotype,Billy Eames,Technology,SMB,Prospecting,157794,16,3/26/2024,9/21/2024,Open
+478,Deal Beta,Blognation,Estrella Brewett,Financial Services,SMB,Demo,461276,66,11/16/2025,9/17/2024,Open
+479,Deal Gamma,Avamba,Marleen Simpkiss,Professional Services,Enterprise,Proposal,22140,39,10/6/2025,7/8/2023,Open
+480,Deal Delta,Twitternation,Walsh Mandry,Healthcare,Mid-Market,Demo,172820,43,9/4/2025,8/20/2023,Open
+481,Deal Beta,Rhyzio,Winne Matson,Healthcare,Enterprise,Qualification,61349,78,2/10/2024,12/10/2023,Open
+482,Deal Alpha,Npath,Elnora Mordaunt,Healthcare,SMB,Demo,332069,57,12/9/2024,9/10/2024,Open
+483,Deal Alpha,Mycat,Roley McCoish,Professional Services,SMB,Prospecting,196164,14,12/6/2025,12/3/2023,Open
+484,Deal Alpha,Jatri,Kain Glasard,Technology,Enterprise,Proposal,298591,26,3/24/2024,10/26/2023,Open
+485,Deal Alpha,Gigashots,Kelley Probyn,Healthcare,Enterprise,Proposal,71452,41,10/4/2025,6/5/2023,Open
+486,Deal Gamma,Jazzy,Janie Nossent,Technology,SMB,Prospecting,358895,17,2/21/2024,5/12/2024,Open
+487,Deal Beta,Meejo,Daron Moorman,Professional Services,Mid-Market,Demo,133035,12,10/26/2025,12/3/2023,Open
+488,Deal Beta,Jabbersphere,Mickie Davidi,Professional Services,Mid-Market,Closed Won,351689,42,1/21/2024,2/4/2024,Won
+489,Deal Alpha,Yamia,Edeline Grint,Retail,Mid-Market,Qualification,181061,37,3/28/2024,8/3/2024,Open
+490,Deal Beta,Fatz,Jobey Prahl,Professional Services,SMB,Proposal,211579,32,7/20/2024,6/23/2024,Open
+491,Deal Delta,Thoughtblab,Bev Le Provest,Manufacturing,Enterprise,Qualification,82486,84,12/7/2024,2/29/2024,Open
+492,Deal Beta,Lazz,Yurik George,Financial Services,SMB,Qualification,128149,42,8/14/2025,7/31/2023,Open
+493,Deal Gamma,Gigabox,Jeanine Arthan,Retail,SMB,Qualification,467139,68,1/27/2024,5/2/2024,Open
+494,Deal Gamma,Voonix,Cahra Thor,Retail,Mid-Market,Negotiation,18354,86,2/18/2024,9/25/2024,Open
+495,Deal Alpha,Thoughtbeat,Sheena Goundrill,Healthcare,SMB,Negotiation,45926,86,7/16/2024,3/31/2024,Open
+496,Deal Alpha,Tagopia,Gav Bull,Technology,Enterprise,Proposal,331411,90,6/21/2025,6/15/2023,Open
+497,Deal Beta,Meemm,Marshal Popeley,Retail,Mid-Market,Negotiation,25692,68,12/20/2024,9/8/2023,Open
+498,Deal Gamma,Jaloo,Sonni Bleazard,Professional Services,Mid-Market,Negotiation,137987,88,10/17/2025,6/23/2024,Open
+499,Deal Beta,Yata,Lark Gauntley,Technology,SMB,Prospecting,415584,74,6/18/2024,7/15/2024,Open
+500,Deal Beta,Yadel,Ara Pashbee,Financial Services,Mid-Market,Closed Won,110983,23,2/16/2024,11/17/2024,Won
+501,Deal Alpha,Skiptube,Ruperto Martinello,Manufacturing,SMB,Demo,215120,44,3/28/2025,6/3/2023,Open
+502,Deal Beta,Oloo,Sig Haycox,Financial Services,SMB,Qualification,361088,82,2/10/2024,8/18/2024,Open
+503,Deal Delta,Wikivu,Elisha Grinham,Manufacturing,Enterprise,Prospecting,401411,69,11/15/2024,4/16/2024,Open
+504,Deal Beta,Ailane,Malanie Drysdell,Professional Services,SMB,Proposal,313297,55,3/20/2024,1/5/2024,Open
+505,Deal Gamma,Devify,Lotty Robottom,Healthcare,Enterprise,Closed Lost,154280,50,3/31/2025,10/7/2024,Lost
+506,Deal Beta,Riffpath,Davita Longman,Manufacturing,Mid-Market,Proposal,188130,89,6/11/2024,7/4/2024,Open
+507,Deal Alpha,Mycat,Lizette Corness,Manufacturing,Mid-Market,Proposal,392062,66,6/6/2024,4/28/2024,Open
+508,Deal Delta,Meedoo,Wyatt Klemmt,Financial Services,SMB,Prospecting,44924,35,6/5/2024,7/25/2024,Open
+509,Deal Delta,Oyonder,Shayne Frankema,Technology,Mid-Market,Prospecting,435457,79,4/13/2025,9/3/2024,Open
+510,Deal Beta,Thoughtstorm,Ann Wabersinke,Professional Services,SMB,Proposal,181818,75,10/14/2025,8/14/2023,Open
+511,Deal Beta,Linktype,Chariot Dannohl,Technology,SMB,Closed Lost,354774,23,1/30/2024,6/19/2023,Lost
+512,Deal Delta,Divape,Ugo Geistbeck,Financial Services,SMB,Qualification,108015,62,9/2/2025,10/16/2024,Open
+513,Deal Alpha,Oyope,Way Bagenal,Technology,Enterprise,Qualification,332685,76,8/3/2025,8/23/2023,Open
+514,Deal Delta,Thoughtstorm,Justis Bulfoy,Healthcare,Enterprise,Qualification,412941,51,12/2/2024,8/25/2024,Open
+515,Deal Gamma,Skajo,Hanson Reggler,Retail,SMB,Proposal,207340,41,9/26/2025,4/3/2024,Open
+516,Deal Gamma,Dynazzy,Annetta Sammut,Financial Services,SMB,Closed Lost,117557,88,2/12/2024,4/27/2024,Lost
+517,Deal Alpha,Zoovu,Harri Carss,Manufacturing,Enterprise,Closed Won,317061,23,6/8/2025,6/1/2023,Won
+518,Deal Beta,Linktype,Kalil Swadlen,Manufacturing,Enterprise,Qualification,15339,25,8/21/2024,10/22/2023,Open
+519,Deal Gamma,Zooxo,Rebecca Bedell,Technology,Mid-Market,Qualification,289647,24,11/28/2024,9/10/2023,Open
+520,Deal Beta,Realfire,Angelita Plaskitt,Healthcare,Enterprise,Qualification,269917,71,2/7/2024,2/1/2024,Open
+521,Deal Alpha,Realbridge,Corinna Daburn,Manufacturing,Enterprise,Closed Won,71063,25,10/20/2025,5/6/2024,Won
+522,Deal Delta,Eare,Drusilla Alpine,Healthcare,Mid-Market,Qualification,303410,81,7/10/2025,1/11/2024,Open
+523,Deal Gamma,Oyonder,Bettine Tesimon,Technology,Mid-Market,Qualification,34306,14,4/21/2024,1/19/2024,Open
+524,Deal Gamma,Yacero,Horst Franzolini,Healthcare,Mid-Market,Proposal,419429,36,1/15/2024,5/20/2024,Open
+525,Deal Gamma,Yombu,Gavin Ensor,Technology,SMB,Qualification,379637,33,11/7/2024,12/3/2023,Open
+526,Deal Alpha,Gabspot,Sanson Kinset,Retail,SMB,Prospecting,304770,2,1/16/2025,11/1/2023,Open
+527,Deal Gamma,Oyonder,Harlan Sabbin,Technology,SMB,Prospecting,412015,69,9/5/2024,7/28/2024,Open
+528,Deal Gamma,Yabox,Val Milkins,Retail,Mid-Market,Prospecting,163777,40,1/1/2025,10/31/2024,Open
+529,Deal Beta,Feedfire,Baird Castilla,Financial Services,Enterprise,Demo,248203,30,1/25/2025,11/28/2024,Open
+530,Deal Delta,Twimbo,Sherline Morrell,Technology,Enterprise,Proposal,439733,23,7/2/2024,1/22/2024,Open
+531,Deal Delta,Realblab,Cele Lightbourn,Healthcare,Enterprise,Demo,275110,44,6/10/2025,8/23/2024,Open
+532,Deal Alpha,Devpulse,Raeann Edis,Technology,SMB,Proposal,38751,20,7/22/2024,5/13/2024,Open
+533,Deal Beta,Eabox,Joyous Wolstencroft,Professional Services,SMB,Proposal,213889,53,5/11/2024,8/1/2023,Open
+534,Deal Gamma,Innotype,Papageno Leon,Technology,Mid-Market,Prospecting,192460,67,6/14/2025,11/18/2023,Open
+535,Deal Alpha,Youbridge,Clifford Tebbutt,Retail,Enterprise,Proposal,418604,22,11/16/2025,11/18/2024,Open
+536,Deal Alpha,Riffpath,Peterus Kelcher,Technology,Mid-Market,Negotiation,455184,69,11/7/2025,6/28/2024,Open
+537,Deal Beta,Blogtag,Phebe Sheehy,Technology,Mid-Market,Prospecting,104857,86,4/3/2024,10/12/2023,Open
+538,Deal Beta,Fivechat,Prentiss Hedon,Manufacturing,SMB,Closed Won,207719,14,8/7/2025,11/26/2023,Won
+539,Deal Gamma,Edgewire,Blaine Ackeroyd,Financial Services,Mid-Market,Negotiation,302566,74,9/29/2024,10/3/2023,Open
+540,Deal Alpha,Twitterlist,Rozele Rubinowitsch,Retail,Enterprise,Demo,15472,41,2/11/2025,12/9/2023,Open
+541,Deal Delta,Avamba,Alisa Enticott,Healthcare,Enterprise,Proposal,215185,29,7/29/2024,6/4/2024,Open
+542,Deal Alpha,Twimm,Sybilla Woolforde,Technology,Enterprise,Closed Won,472118,42,3/9/2024,8/29/2024,Won
+543,Deal Beta,Twiyo,Ondrea Bossom,Professional Services,Enterprise,Prospecting,473901,42,7/1/2025,11/22/2024,Open
+544,Deal Alpha,Thoughtbridge,Ellsworth Swindon,Healthcare,Enterprise,Proposal,117017,53,2/24/2024,12/19/2024,Open
+545,Deal Beta,Meeveo,Helenelizabeth Guerra,Financial Services,Enterprise,Demo,452552,87,7/22/2025,7/20/2023,Open
+546,Deal Gamma,Edgeify,Cleveland Gowman,Retail,Mid-Market,Qualification,164232,1,11/30/2025,1/17/2024,Open
+547,Deal Beta,Wikizz,Crysta Searsby,Retail,Mid-Market,Negotiation,32582,68,6/13/2025,10/15/2023,Open
+548,Deal Gamma,Kwimbee,Bartlett Branston,Healthcare,Enterprise,Closed Won,446278,48,4/22/2024,5/29/2024,Won
+549,Deal Beta,Agivu,Udell Ricold,Professional Services,Mid-Market,Closed Won,130288,23,6/15/2024,6/8/2024,Won
+550,Deal Alpha,InnoZ,Tiler Noice,Manufacturing,Enterprise,Closed Won,402358,78,3/4/2024,8/4/2023,Won
+551,Deal Alpha,Skinix,Webb Wichard,Manufacturing,SMB,Prospecting,84547,7,7/11/2024,3/21/2024,Open
+552,Deal Beta,Eare,Julian Ivamy,Technology,Enterprise,Prospecting,108991,52,3/30/2024,8/2/2023,Open
+553,Deal Alpha,Skippad,Kathy Conlon,Retail,Mid-Market,Qualification,250076,46,2/19/2024,11/13/2024,Open
+554,Deal Beta,Voomm,Sarajane Corking,Healthcare,Mid-Market,Proposal,128403,3,8/20/2025,7/1/2024,Open
+555,Deal Delta,Wikivu,Neal Garahan,Retail,Mid-Market,Qualification,360969,40,7/10/2024,9/25/2024,Open
+556,Deal Gamma,Leenti,Letty Aizik,Retail,Enterprise,Prospecting,164045,56,4/25/2025,7/15/2024,Open
+557,Deal Alpha,Photofeed,Ferdinand Berardt,Professional Services,SMB,Proposal,258762,7,9/13/2024,9/3/2023,Open
+558,Deal Delta,Mynte,Rubina Essberger,Technology,Enterprise,Prospecting,125775,2,8/3/2024,5/27/2024,Open
+559,Deal Alpha,Shufflester,Melodie Kemmett,Healthcare,Mid-Market,Prospecting,22144,69,6/3/2024,9/26/2024,Open
+560,Deal Alpha,Jabberbean,Beryle Beadel,Manufacturing,SMB,Demo,63507,89,3/9/2024,12/8/2023,Open
+561,Deal Beta,Bubbletube,Elroy Fewlass,Professional Services,Mid-Market,Negotiation,440577,4,2/5/2025,6/5/2024,Open
+562,Deal Gamma,Meetz,Regan Gutridge,Retail,Mid-Market,Proposal,474795,14,10/24/2024,7/22/2023,Open
+563,Deal Gamma,DabZ,Christian Borzone,Healthcare,SMB,Proposal,68293,57,12/22/2025,8/18/2024,Open
+564,Deal Gamma,Skyndu,Filberto Quarlis,Financial Services,SMB,Negotiation,418683,88,10/12/2024,3/8/2024,Open
+565,Deal Beta,Fadeo,Joletta Davidsson,Professional Services,Enterprise,Prospecting,282339,90,6/9/2024,7/30/2024,Open
+566,Deal Delta,Wikido,Monty Bollard,Financial Services,SMB,Proposal,300613,63,3/10/2025,2/11/2024,Open
+567,Deal Alpha,Rhynyx,Sanders Burchess,Professional Services,Enterprise,Closed Lost,292602,86,2/20/2025,8/21/2023,Lost
+568,Deal Delta,Kayveo,Lorena Gorger,Financial Services,SMB,Closed Lost,217571,87,8/2/2024,2/24/2024,Lost
+569,Deal Gamma,Rooxo,Bernardo Grumble,Healthcare,Enterprise,Closed Won,482050,27,12/15/2025,8/21/2023,Won
+570,Deal Delta,Realcube,Eunice Newland,Manufacturing,SMB,Qualification,204249,5,2/6/2025,3/14/2024,Open
+571,Deal Alpha,Devbug,Tatiana Harvie,Healthcare,Mid-Market,Qualification,225947,30,9/10/2024,9/24/2024,Open
+572,Deal Beta,Realbuzz,Glynn Sansome,Healthcare,Mid-Market,Qualification,423337,13,5/29/2025,10/27/2024,Open
+573,Deal Beta,Oozz,Merl McGeoch,Technology,Mid-Market,Proposal,464349,61,9/10/2025,1/13/2024,Open
+574,Deal Beta,Meedoo,Bridgette Gegay,Financial Services,SMB,Prospecting,330462,20,1/23/2024,6/28/2023,Open
+575,Deal Delta,Kaymbo,Emlyn Beckford,Technology,Mid-Market,Closed Lost,70511,26,12/27/2025,10/7/2024,Lost
+576,Deal Beta,Wordtune,Jorge Bramwell,Financial Services,Enterprise,Proposal,173214,83,12/17/2025,6/15/2023,Open
+577,Deal Beta,Riffpath,Lanna Dearnly,Healthcare,SMB,Demo,126033,63,7/12/2025,12/29/2024,Open
+578,Deal Delta,Zava,Otis Danbrook,Manufacturing,Enterprise,Prospecting,403155,61,4/17/2024,9/12/2024,Open
+579,Deal Beta,Vinder,Luelle Heijne,Professional Services,Mid-Market,Qualification,241709,68,12/6/2025,4/16/2024,Open
+580,Deal Alpha,Eimbee,Loren Peal,Professional Services,Enterprise,Demo,70985,3,8/18/2025,10/24/2024,Open
+581,Deal Delta,Wikizz,Beilul Carpe,Healthcare,Mid-Market,Qualification,484560,40,2/12/2024,6/10/2023,Open
+582,Deal Alpha,Trudeo,Talbert Kick,Technology,Enterprise,Demo,160819,28,12/8/2025,3/3/2024,Open
+583,Deal Alpha,Eare,Morrie Meiningen,Healthcare,SMB,Proposal,378812,35,4/1/2025,5/29/2024,Open
+584,Deal Gamma,Flashset,Jodee Hanscomb,Healthcare,Enterprise,Proposal,391020,72,1/12/2025,11/16/2024,Open
+585,Deal Gamma,Pixope,Constantino Crookshanks,Technology,SMB,Proposal,21129,6,9/4/2025,5/28/2024,Open
+586,Deal Beta,Voolia,De witt Boldry,Financial Services,Enterprise,Prospecting,198094,4,10/23/2024,12/25/2023,Open
+587,Deal Beta,Brainsphere,Ludovico Rubinshtein,Financial Services,Enterprise,Prospecting,310892,15,2/16/2024,1/30/2024,Open
+588,Deal Beta,Eamia,Goddart Klimochkin,Technology,Enterprise,Qualification,70210,43,6/5/2024,8/13/2023,Open
+589,Deal Delta,Wordware,Reeba Brisson,Retail,Enterprise,Proposal,73702,81,6/13/2025,9/23/2024,Open
+590,Deal Gamma,Kwimbee,Lonny De Malchar,Technology,Enterprise,Prospecting,356944,34,6/10/2025,7/1/2024,Open
+591,Deal Beta,Fadeo,Julian Poag,Technology,SMB,Qualification,196392,75,11/1/2025,10/19/2024,Open
+592,Deal Delta,Ainyx,Chantal Duiged,Financial Services,SMB,Demo,39812,9,12/12/2024,8/8/2023,Open
+593,Deal Alpha,Skilith,Cristie Purbrick,Financial Services,Mid-Market,Prospecting,11836,85,2/26/2025,8/17/2024,Open
+594,Deal Beta,Flashdog,Sigmund Maddaford,Retail,SMB,Demo,238302,73,2/2/2025,10/9/2024,Open
+595,Deal Gamma,Flashspan,Karlen Filipov,Healthcare,Mid-Market,Demo,13485,55,2/9/2025,11/22/2023,Open
+596,Deal Beta,Blogspan,Dewie Emanuel,Financial Services,Enterprise,Prospecting,16270,34,7/10/2025,7/24/2023,Open
+597,Deal Gamma,Yakidoo,Minni Schach,Professional Services,SMB,Qualification,461406,20,10/5/2025,6/21/2023,Open
+598,Deal Alpha,Jabbertype,Kelli Dodshon,Healthcare,Mid-Market,Negotiation,116716,77,6/25/2025,5/5/2024,Open
+599,Deal Beta,Vipe,Rhiamon Worsham,Retail,SMB,Prospecting,34240,78,1/17/2024,11/22/2023,Open
+600,Deal Gamma,Zazio,Nichol Beckensall,Retail,SMB,Closed Won,496650,19,11/6/2025,11/23/2024,Won
+601,Deal Beta,Tagchat,Emelita Scase,Healthcare,Enterprise,Prospecting,442113,28,10/8/2024,6/11/2023,Open
+602,Deal Gamma,Jazzy,Jilleen Bram,Financial Services,Mid-Market,Prospecting,25846,50,6/9/2024,10/13/2023,Open
+603,Deal Gamma,Divanoodle,Jefferson Matveichev,Retail,Enterprise,Proposal,310865,77,10/9/2024,8/29/2024,Open
+604,Deal Beta,Eamia,Sumner Meads,Retail,SMB,Prospecting,365944,58,11/15/2025,9/15/2023,Open
+605,Deal Alpha,Jazzy,Mikaela Mertsching,Retail,Mid-Market,Prospecting,438736,90,12/17/2024,1/10/2024,Open
+606,Deal Beta,Kamba,Starlene Measor,Healthcare,Enterprise,Demo,37311,75,2/26/2025,11/19/2024,Open
+607,Deal Gamma,Dynazzy,Danny Hucklesby,Financial Services,SMB,Qualification,341691,19,7/22/2025,2/21/2024,Open
+608,Deal Gamma,Blogtags,Gladi O'Sheerin,Retail,Mid-Market,Closed Lost,494089,50,10/13/2025,8/23/2023,Lost
+609,Deal Alpha,Camimbo,Bert De Fraine,Financial Services,Mid-Market,Closed Won,13381,82,5/27/2024,9/23/2024,Won
+610,Deal Alpha,Edgetag,Betta Frayling,Financial Services,Mid-Market,Demo,116863,53,6/11/2025,8/9/2024,Open
+611,Deal Alpha,Npath,Elane Lamperti,Manufacturing,SMB,Prospecting,363236,77,10/7/2025,8/23/2024,Open
+612,Deal Gamma,Innojam,Jake Ferronel,Financial Services,Mid-Market,Proposal,449792,15,7/28/2024,12/11/2023,Open
+613,Deal Delta,Lajo,Misty Yatman,Healthcare,Mid-Market,Proposal,258257,88,10/24/2024,6/16/2024,Open
+614,Deal Beta,Twitterwire,Quintin Dailey,Professional Services,SMB,Qualification,97542,66,4/26/2025,3/6/2024,Open
+615,Deal Delta,Rhybox,Sylas Pinnijar,Retail,Mid-Market,Closed Won,42575,67,6/7/2025,6/8/2023,Won
+616,Deal Delta,Browsedrive,Lanni Broderick,Manufacturing,Enterprise,Closed Won,110527,45,11/4/2025,12/18/2024,Won
+617,Deal Beta,Jaxworks,Ferris Gameson,Healthcare,SMB,Demo,386279,41,9/7/2025,6/13/2024,Open
+618,Deal Delta,Izio,Zacharie Skoate,Manufacturing,Mid-Market,Prospecting,123091,23,10/27/2024,12/30/2024,Open
+619,Deal Alpha,Dabshots,Berta Huske,Retail,Enterprise,Qualification,494780,43,6/18/2024,8/26/2024,Open
+620,Deal Alpha,Avamm,Sasha Stockdale,Technology,SMB,Qualification,428511,64,3/9/2025,9/9/2024,Open
+621,Deal Gamma,Bubbletube,Opalina Truggian,Financial Services,Enterprise,Demo,477040,30,7/31/2024,9/17/2024,Open
+622,Deal Alpha,Myworks,Glenine Lunney,Manufacturing,SMB,Demo,99836,37,11/24/2025,12/18/2023,Open
+623,Deal Beta,Voomm,Benedetta Khristyukhin,Healthcare,Mid-Market,Closed Won,386633,1,4/23/2025,10/21/2024,Won
+624,Deal Gamma,Devcast,Tarrah Owttrim,Technology,SMB,Demo,258976,61,7/21/2024,11/19/2023,Open
+625,Deal Gamma,Skyndu,Kariotta Bonett,Technology,SMB,Negotiation,468168,63,12/15/2024,11/28/2024,Open
+626,Deal Delta,Plambee,Parnell Rohfsen,Professional Services,Mid-Market,Prospecting,450584,8,10/29/2025,6/24/2023,Open
+627,Deal Beta,Tazz,Camila Hinstridge,Technology,Enterprise,Demo,129309,31,6/2/2024,6/8/2024,Open
+628,Deal Beta,Topdrive,Conrade Spritt,Healthcare,Enterprise,Qualification,411974,41,12/12/2025,9/10/2024,Open
+629,Deal Beta,Topicblab,Burtie Toner,Professional Services,SMB,Closed Lost,463533,34,6/5/2025,9/26/2024,Lost
+630,Deal Beta,Twinte,Olenolin Orneles,Retail,Mid-Market,Prospecting,212637,74,3/15/2025,9/12/2024,Open
+631,Deal Gamma,Talane,Niko Defew,Professional Services,Enterprise,Negotiation,20336,45,1/10/2025,8/27/2023,Open
+632,Deal Beta,Skimia,Trefor Craydon,Manufacturing,Enterprise,Qualification,27201,12,7/24/2025,7/1/2024,Open
+633,Deal Beta,Yombu,Rod Redmille,Financial Services,Mid-Market,Prospecting,49609,88,6/4/2025,6/3/2023,Open
+634,Deal Beta,Yodo,Melvyn Raw,Professional Services,Mid-Market,Prospecting,163698,78,9/16/2025,2/4/2024,Open
+635,Deal Beta,Camimbo,Rici Elstub,Manufacturing,Mid-Market,Prospecting,16990,30,2/17/2024,5/1/2024,Open
+636,Deal Delta,Vitz,Sutton Kleingrub,Retail,SMB,Closed Won,338473,51,4/20/2024,11/7/2024,Won
+637,Deal Alpha,Eare,Alair Wethey,Manufacturing,Enterprise,Negotiation,487615,36,5/6/2024,6/22/2023,Open
+638,Deal Gamma,Reallinks,Izak Pickston,Professional Services,Mid-Market,Demo,14323,23,12/6/2025,12/23/2023,Open
+639,Deal Gamma,Browseblab,Noemi Clardge,Technology,Mid-Market,Prospecting,137349,25,7/10/2025,2/13/2024,Open
+640,Deal Delta,Camimbo,Lian Kohnert,Technology,Enterprise,Negotiation,468645,46,6/23/2024,3/17/2024,Open
+641,Deal Beta,Mymm,Janaya Quaif,Healthcare,Mid-Market,Prospecting,261122,57,11/24/2025,10/3/2024,Open
+642,Deal Gamma,Omba,Vanny McKern,Technology,Mid-Market,Negotiation,130808,43,9/25/2025,10/14/2023,Open
+643,Deal Delta,Tagfeed,Clemmy Ellinor,Manufacturing,SMB,Prospecting,492919,76,4/5/2025,7/27/2024,Open
+644,Deal Gamma,Buzzbean,Byran Swinburne,Professional Services,Mid-Market,Qualification,475381,17,7/11/2024,10/15/2024,Open
+645,Deal Delta,Mynte,Cazzie McIlhatton,Retail,SMB,Prospecting,264168,1,8/17/2024,9/19/2024,Open
+646,Deal Beta,Roomm,Tull Ivakhin,Manufacturing,SMB,Proposal,312750,25,8/2/2025,6/10/2024,Open
+647,Deal Gamma,Topicblab,Doralynne MacDougal,Technology,SMB,Qualification,245445,10,10/27/2025,1/10/2024,Open
+648,Deal Gamma,Voomm,Daffi Lober,Financial Services,SMB,Prospecting,23353,10,5/28/2025,4/1/2024,Open
+649,Deal Beta,Edgeclub,Ray Ciardo,Healthcare,Mid-Market,Proposal,376537,41,8/6/2025,10/10/2024,Open
+650,Deal Alpha,Realcube,Jacqueline Jeeves,Retail,Mid-Market,Prospecting,225894,71,12/17/2025,10/24/2024,Open
+651,Deal Beta,Centizu,Emelia Hallows,Financial Services,Mid-Market,Negotiation,455189,16,6/3/2025,8/21/2024,Open
+652,Deal Alpha,Innojam,Winna Tasch,Retail,SMB,Proposal,359493,54,8/6/2025,9/17/2023,Open
+653,Deal Delta,Tambee,Shirlee Wendover,Professional Services,Mid-Market,Demo,264523,49,3/10/2025,9/1/2023,Open
+654,Deal Alpha,Voonyx,Lazaro MacEnelly,Technology,Enterprise,Prospecting,51896,59,7/6/2025,7/8/2024,Open
+655,Deal Beta,Jabbersphere,Eldredge Glenister,Manufacturing,Mid-Market,Prospecting,280399,87,8/1/2024,10/1/2023,Open
+656,Deal Gamma,Feedbug,Waldon Jeste,Technology,Mid-Market,Qualification,340267,36,10/20/2024,11/7/2023,Open
+657,Deal Gamma,Jaxnation,Tandi Tegler,Professional Services,Mid-Market,Proposal,380023,40,10/19/2024,7/13/2023,Open
+658,Deal Alpha,Babblestorm,Suzette Kloster,Manufacturing,SMB,Qualification,137723,38,5/3/2025,11/9/2023,Open
+659,Deal Beta,Yata,Agata Macklin,Manufacturing,Mid-Market,Demo,276002,19,8/2/2025,11/5/2024,Open
+660,Deal Alpha,Skyble,Ingamar Huxtable,Manufacturing,Enterprise,Prospecting,52173,89,3/19/2025,9/25/2023,Open
+661,Deal Beta,Jayo,Viviene Loseke,Professional Services,Mid-Market,Proposal,213807,69,1/18/2025,10/16/2023,Open
+662,Deal Gamma,Mydeo,Lynelle Archdeckne,Manufacturing,Enterprise,Demo,231348,64,10/25/2025,11/28/2024,Open
+663,Deal Beta,Meevee,Sandy Raymen,Retail,Enterprise,Demo,240442,61,1/17/2025,10/19/2023,Open
+664,Deal Gamma,Aimbo,Becca Labbet,Professional Services,Mid-Market,Closed Won,446621,70,1/22/2025,8/14/2024,Won
+665,Deal Gamma,Yodoo,Mireielle Branchflower,Manufacturing,Enterprise,Proposal,355150,2,8/15/2024,6/19/2024,Open
+666,Deal Beta,Quimba,Tan Clarabut,Financial Services,Mid-Market,Prospecting,217442,55,7/3/2024,6/17/2023,Open
+667,Deal Alpha,Skiba,Sigismund Capewell,Retail,Mid-Market,Closed Won,428104,15,3/17/2024,11/11/2023,Won
+668,Deal Beta,Yotz,Belicia Grelik,Retail,Enterprise,Demo,187503,79,5/13/2025,8/24/2024,Open
+669,Deal Delta,Rooxo,Meta Maxworthy,Healthcare,Mid-Market,Closed Won,450667,30,2/5/2024,6/10/2023,Won
+670,Deal Gamma,Edgetag,Kesley Gandrich,Financial Services,Enterprise,Prospecting,322734,18,9/29/2025,6/6/2024,Open
+671,Deal Gamma,Tagchat,Francois Ianiello,Financial Services,Enterprise,Demo,255307,20,7/27/2025,4/8/2024,Open
+672,Deal Delta,Twimbo,Karine Oldcote,Financial Services,Mid-Market,Closed Lost,338758,18,12/7/2024,6/20/2023,Lost
+673,Deal Gamma,Ozu,Ellis D' Angelo,Professional Services,SMB,Prospecting,309215,55,12/25/2024,7/16/2024,Open
+674,Deal Beta,Yodoo,Florian Torbet,Technology,SMB,Qualification,118812,53,12/20/2024,8/4/2024,Open
+675,Deal Delta,Jabberbean,Koo Kinton,Manufacturing,Mid-Market,Prospecting,382654,38,5/16/2024,7/24/2023,Open
+676,Deal Alpha,Realpoint,Ferdie Muldownie,Technology,SMB,Closed Won,494949,29,12/29/2025,9/7/2023,Won
+677,Deal Delta,Youtags,Eunice Mowsdale,Financial Services,Mid-Market,Qualification,35133,29,2/28/2025,5/19/2024,Open
+678,Deal Gamma,Abata,Cherise Guilaem,Retail,Mid-Market,Prospecting,106260,5,12/3/2025,7/14/2024,Open
+679,Deal Alpha,Leenti,Leland Constantine,Manufacturing,Mid-Market,Prospecting,111367,4,7/10/2024,12/28/2024,Open
+680,Deal Beta,Pixoboo,Deb Pedroni,Healthcare,Enterprise,Qualification,189753,25,4/5/2025,12/26/2023,Open
+681,Deal Alpha,Demivee,Cory Dureden,Professional Services,SMB,Proposal,46593,10,10/8/2025,10/2/2024,Open
+682,Deal Delta,Tambee,Livvy Pickover,Financial Services,Enterprise,Qualification,176639,81,12/21/2025,12/10/2024,Open
+683,Deal Beta,Dabfeed,Jarrid Legat,Retail,Mid-Market,Qualification,447490,11,5/3/2024,4/19/2024,Open
+684,Deal Delta,Plambee,Jayme Escritt,Professional Services,SMB,Negotiation,389579,66,10/30/2025,4/7/2024,Open
+685,Deal Gamma,Yodel,Riannon Klemz,Financial Services,SMB,Closed Won,75484,50,3/22/2025,11/20/2024,Won
+686,Deal Beta,Demivee,Zitella Brickett,Technology,Mid-Market,Qualification,222413,17,4/9/2025,12/29/2024,Open
+687,Deal Beta,Twitternation,Ruddie Birkbeck,Manufacturing,Mid-Market,Qualification,274981,10,7/29/2024,6/2/2024,Open
+688,Deal Delta,Livepath,Casey Merriday,Healthcare,Enterprise,Negotiation,366283,64,7/11/2025,8/10/2024,Open
+689,Deal Delta,Eimbee,Brandais Belhomme,Healthcare,SMB,Negotiation,34494,30,5/27/2025,3/29/2024,Open
+690,Deal Delta,Demivee,Sigismondo Vanshin,Professional Services,Enterprise,Prospecting,440662,25,12/28/2024,12/26/2024,Open
+691,Deal Gamma,Oyondu,Kyrstin Pool,Technology,SMB,Prospecting,94447,2,3/11/2025,10/27/2023,Open
+692,Deal Delta,Zoomzone,Birdie Sandifer,Technology,Enterprise,Closed Won,7697,63,10/22/2024,9/8/2024,Won
+693,Deal Alpha,Youspan,Shanda Boutton,Manufacturing,Mid-Market,Demo,393980,41,9/10/2024,2/17/2024,Open
+694,Deal Alpha,Skimia,Nichole Crambie,Healthcare,Mid-Market,Demo,393472,36,2/26/2025,12/1/2024,Open
+695,Deal Alpha,Fadeo,Aggy Ambroise,Professional Services,Enterprise,Negotiation,450945,40,4/14/2024,2/11/2024,Open
+696,Deal Delta,Avavee,Regan Cudbird,Financial Services,Enterprise,Demo,7961,10,5/27/2024,7/3/2024,Open
+697,Deal Alpha,Tagopia,Pepe Stowte,Financial Services,SMB,Closed Lost,289920,50,10/7/2024,4/15/2024,Lost
+698,Deal Alpha,Realcube,Britt Winscomb,Manufacturing,Mid-Market,Prospecting,305861,48,6/29/2025,7/19/2023,Open
+699,Deal Beta,Skiba,Ase Chadbourn,Healthcare,Enterprise,Prospecting,359925,26,4/18/2024,7/3/2023,Open
+700,Deal Delta,Skilith,Fonzie Guyers,Healthcare,Enterprise,Proposal,139721,81,2/25/2025,8/27/2023,Open
+701,Deal Gamma,Brainbox,Robinson Cubbino,Healthcare,Mid-Market,Qualification,248133,43,6/21/2025,9/29/2023,Open
+702,Deal Beta,Trilia,Karita Borel,Financial Services,Enterprise,Prospecting,135364,59,7/20/2025,11/14/2024,Open
+703,Deal Alpha,Lajo,Gram Kinney,Professional Services,Mid-Market,Prospecting,342204,69,7/1/2025,11/12/2024,Open
+704,Deal Gamma,Topicblab,Bernhard Winter,Retail,Enterprise,Negotiation,204386,53,3/14/2025,11/9/2023,Open
+705,Deal Delta,Skinder,Halsey Kells,Healthcare,SMB,Prospecting,378984,9,11/26/2024,1/15/2024,Open
+706,Deal Alpha,Yata,Orazio Studman,Technology,Enterprise,Closed Won,120211,3,9/2/2024,7/13/2023,Won
+707,Deal Gamma,Tazzy,Reena Syde,Professional Services,Enterprise,Negotiation,415075,6,2/3/2025,7/17/2023,Open
+708,Deal Gamma,Shuffledrive,Doti Marsay,Manufacturing,Mid-Market,Demo,224075,36,9/10/2024,12/17/2024,Open
+709,Deal Delta,BlogXS,Chris Assard,Healthcare,SMB,Proposal,257681,88,10/15/2025,3/13/2024,Open
+710,Deal Delta,Dabvine,Rebekkah Fahrenbach,Retail,Mid-Market,Closed Lost,15517,42,8/25/2024,3/13/2024,Lost
+711,Deal Gamma,Skynoodle,Auguste Vaneev,Professional Services,Enterprise,Proposal,397685,70,5/12/2024,3/28/2024,Open
+712,Deal Beta,Eidel,Shepherd Piff,Manufacturing,Enterprise,Demo,292177,5,6/20/2025,12/27/2024,Open
+713,Deal Beta,Fiveclub,Octavia Pavyer,Retail,SMB,Closed Won,112840,68,7/14/2024,1/11/2024,Won
+714,Deal Delta,Feedfish,Helli Sturzaker,Professional Services,Enterprise,Qualification,10857,55,5/18/2025,11/21/2023,Open
+715,Deal Gamma,Shufflebeat,Georgie McAneny,Technology,SMB,Qualification,257261,31,8/15/2025,8/31/2024,Open
+716,Deal Beta,Eidel,Ebony Twittey,Financial Services,Enterprise,Prospecting,401553,32,2/17/2025,12/6/2023,Open
+717,Deal Alpha,Brightdog,Madelle Karpeev,Healthcare,SMB,Demo,376701,23,7/28/2024,10/27/2024,Open
+718,Deal Alpha,Aibox,Brucie Doyle,Retail,Enterprise,Qualification,423676,49,4/11/2025,12/11/2024,Open
+719,Deal Alpha,Jaxbean,Mordy Stoltz,Healthcare,Mid-Market,Closed Won,289985,37,5/24/2025,4/4/2024,Won
+720,Deal Beta,Muxo,Mabelle Trase,Financial Services,Enterprise,Qualification,79293,40,4/14/2025,7/13/2023,Open
+721,Deal Delta,Eire,Sarette Delahunty,Manufacturing,Mid-Market,Negotiation,156111,35,5/23/2025,7/13/2024,Open
+722,Deal Delta,Flipopia,Hedy Hall,Professional Services,Mid-Market,Prospecting,284189,32,12/27/2024,12/29/2023,Open
+723,Deal Gamma,Jazzy,Jarrod Richardt,Retail,Mid-Market,Closed Won,69968,31,6/30/2024,10/15/2024,Won
+724,Deal Beta,Talane,Meridith Pinnington,Manufacturing,SMB,Qualification,442040,20,11/26/2025,11/21/2023,Open
+725,Deal Alpha,Linkbridge,Berkeley Matthaus,Professional Services,Mid-Market,Prospecting,226531,33,1/2/2025,11/24/2023,Open
+726,Deal Gamma,Flashpoint,Jinny Hosten,Healthcare,SMB,Qualification,297211,68,8/26/2025,8/17/2023,Open
+727,Deal Delta,Yata,Sherrie Keysall,Professional Services,Enterprise,Prospecting,344652,36,11/6/2024,8/4/2024,Open
+728,Deal Delta,Jayo,Winny Fransemai,Retail,Mid-Market,Demo,249577,24,7/3/2025,3/13/2024,Open
+729,Deal Gamma,Youfeed,Chrotoem Leaf,Manufacturing,SMB,Closed Won,296890,15,12/14/2024,7/5/2024,Won
+730,Deal Alpha,Mymm,Fionna Duffy,Manufacturing,Enterprise,Proposal,40867,58,9/29/2025,2/7/2024,Open
+731,Deal Beta,Browsecat,Philippa Plak,Professional Services,SMB,Prospecting,223106,17,10/23/2025,11/9/2024,Open
+732,Deal Gamma,Twitterworks,Alverta Kettles,Retail,Mid-Market,Qualification,150735,44,10/23/2024,4/27/2024,Open
+733,Deal Delta,Brightdog,Mirabella Shivlin,Retail,Enterprise,Prospecting,477424,31,1/21/2024,8/1/2023,Open
+734,Deal Gamma,Pixonyx,Dacey Jewson,Retail,Enterprise,Negotiation,46390,82,4/3/2025,9/3/2023,Open
+735,Deal Delta,Voolia,Marcelo Hawler,Professional Services,SMB,Proposal,210734,40,5/25/2025,12/19/2024,Open
+736,Deal Beta,Jaxworks,Mary Sheehan,Technology,SMB,Proposal,186407,86,4/21/2025,7/29/2024,Open
+737,Deal Gamma,Livetube,Gorden Bilborough,Financial Services,SMB,Prospecting,346610,30,7/4/2024,6/17/2024,Open
+738,Deal Delta,Topicstorm,Therine Hickisson,Retail,SMB,Closed Lost,99803,2,8/15/2025,12/14/2023,Lost
+739,Deal Delta,Realpoint,Jewelle Larsen,Healthcare,Mid-Market,Demo,481452,13,5/17/2025,11/15/2023,Open
+740,Deal Alpha,Linkbuzz,Kirstin Scotchmoor,Retail,SMB,Qualification,37778,68,7/13/2024,12/9/2023,Open
+741,Deal Alpha,Linkbuzz,Joni Bigadike,Manufacturing,Mid-Market,Demo,192676,90,11/20/2025,10/12/2023,Open
+742,Deal Alpha,Skinte,Gayleen Kulvear,Professional Services,Enterprise,Proposal,312196,37,1/15/2024,9/29/2023,Open
+743,Deal Beta,Feedbug,Lurlene Comberbeach,Retail,SMB,Prospecting,113429,14,12/24/2025,10/21/2024,Open
+744,Deal Gamma,Skynoodle,Jamesy O'Sherin,Retail,Enterprise,Closed Won,135040,25,5/16/2024,10/31/2023,Won
+745,Deal Gamma,Jetpulse,Diena Katzmann,Retail,SMB,Qualification,359286,17,10/18/2024,10/24/2023,Open
+746,Deal Beta,Meevee,Alleen Templeman,Healthcare,Enterprise,Demo,320542,54,7/26/2024,6/20/2023,Open
+747,Deal Gamma,Jetpulse,Kliment Marin,Technology,Enterprise,Demo,199640,50,5/19/2025,10/5/2023,Open
+748,Deal Delta,Eire,Nettie Shaxby,Technology,SMB,Proposal,89237,1,6/7/2024,12/23/2024,Open
+749,Deal Gamma,Reallinks,Joscelin Douche,Manufacturing,Enterprise,Negotiation,378380,68,8/13/2025,8/23/2023,Open
+750,Deal Alpha,Linkbridge,Bette-ann Murdy,Technology,Mid-Market,Negotiation,194890,80,3/30/2025,7/16/2024,Open
+751,Deal Delta,Vimbo,Rowen Beauman,Technology,Mid-Market,Prospecting,16048,45,4/7/2025,2/26/2024,Open
+752,Deal Alpha,Kwideo,Verne Elks,Healthcare,Enterprise,Qualification,22006,63,5/19/2024,4/13/2024,Open
+753,Deal Beta,Twitterlist,Lorry Truss,Professional Services,Mid-Market,Closed Won,31255,56,3/15/2024,5/24/2024,Won
+754,Deal Gamma,Aivee,Bradford Erangey,Financial Services,Mid-Market,Closed Lost,190689,52,12/6/2025,10/21/2024,Lost
+755,Deal Alpha,Quatz,Annamarie Moon,Technology,SMB,Demo,227469,66,6/24/2025,10/5/2023,Open
+756,Deal Alpha,Yoveo,Kristan Risso,Professional Services,Mid-Market,Prospecting,224366,4,10/17/2024,8/6/2023,Open
+757,Deal Delta,Demimbu,Margalo Southcomb,Manufacturing,SMB,Closed Won,276913,45,4/1/2025,10/20/2024,Won
+758,Deal Delta,Voomm,Hugh Georgeot,Financial Services,SMB,Closed Lost,9010,81,10/26/2024,9/11/2024,Lost
+759,Deal Delta,Babbleopia,Suzette Bracegirdle,Manufacturing,Mid-Market,Negotiation,323661,39,1/4/2024,12/3/2023,Open
+760,Deal Gamma,Demivee,Lexie Jubert,Healthcare,SMB,Qualification,30972,64,12/18/2024,11/7/2023,Open
+761,Deal Alpha,Janyx,Brnaba Yegoshin,Retail,SMB,Qualification,348543,79,8/8/2024,1/23/2024,Open
+762,Deal Delta,Youtags,Kahaleel Beckett,Retail,Mid-Market,Proposal,140718,56,2/15/2024,7/7/2023,Open
+763,Deal Gamma,Kwinu,Mitchel Dugan,Professional Services,SMB,Closed Won,213970,44,10/7/2025,11/10/2024,Won
+764,Deal Delta,LiveZ,Mikael Lawrenz,Manufacturing,Enterprise,Prospecting,91827,18,11/21/2024,1/23/2024,Open
+765,Deal Delta,Shufflester,Valry Snodden,Healthcare,Mid-Market,Prospecting,159049,38,3/5/2025,11/5/2024,Open
+766,Deal Alpha,Ailane,Wainwright Trangmar,Retail,Enterprise,Qualification,111589,77,10/10/2025,6/25/2024,Open
+767,Deal Delta,Twimm,Oona Jaquest,Technology,Mid-Market,Prospecting,307883,3,7/9/2025,9/25/2023,Open
+768,Deal Delta,Oyonder,Pernell Mitchel,Retail,Mid-Market,Prospecting,224036,56,7/25/2025,8/2/2024,Open
+769,Deal Alpha,Thoughtblab,Derk Aistrop,Financial Services,Mid-Market,Proposal,25585,80,8/5/2024,8/15/2024,Open
+770,Deal Gamma,Browsecat,Judye Blaisdell,Professional Services,Mid-Market,Prospecting,128156,41,11/1/2025,7/3/2024,Open
+771,Deal Beta,Pixonyx,Polly Botfield,Healthcare,Enterprise,Prospecting,417092,34,2/16/2024,6/19/2023,Open
+772,Deal Alpha,Kwideo,Giselbert Simmon,Retail,Mid-Market,Prospecting,236832,58,9/12/2025,9/17/2023,Open
+773,Deal Alpha,Ooba,Barty Jodrellec,Financial Services,SMB,Closed Won,431414,58,8/28/2024,8/6/2023,Won
+774,Deal Alpha,Skidoo,Rafael Duckit,Professional Services,Mid-Market,Qualification,187474,5,8/18/2024,10/8/2023,Open
+775,Deal Alpha,Skiba,Van Janku,Healthcare,SMB,Prospecting,242377,41,2/21/2024,8/2/2023,Open
+776,Deal Alpha,Twinte,Sal Carpenter,Retail,SMB,Prospecting,476298,24,10/15/2024,2/26/2024,Open
+777,Deal Alpha,Flashpoint,Magdalen Hatto,Technology,Mid-Market,Negotiation,68859,36,11/7/2025,9/14/2023,Open
+778,Deal Gamma,Brightbean,Oliviero Phippin,Healthcare,SMB,Negotiation,33945,21,1/14/2024,3/25/2024,Open
+779,Deal Delta,Zoonder,Justine Shufflebotham,Financial Services,SMB,Demo,204338,83,8/18/2024,6/21/2023,Open
+780,Deal Delta,Eidel,Eleonore Parkhouse,Manufacturing,Enterprise,Proposal,425457,49,10/17/2024,11/27/2023,Open
+781,Deal Delta,Trudeo,Willy Farden,Financial Services,Mid-Market,Prospecting,367694,44,4/1/2024,7/28/2024,Open
+782,Deal Alpha,Feedspan,Had Gaven,Retail,Mid-Market,Qualification,331548,6,4/28/2025,11/29/2024,Open
+783,Deal Beta,Thoughtworks,Genvieve Tiffin,Manufacturing,SMB,Prospecting,79724,36,2/15/2025,7/11/2023,Open
+784,Deal Delta,Yata,Stephani Mogridge,Healthcare,SMB,Demo,263273,62,11/28/2025,6/25/2024,Open
+785,Deal Gamma,Tazzy,Joey Lammie,Manufacturing,Enterprise,Prospecting,497720,8,10/25/2025,11/19/2024,Open
+786,Deal Beta,Zooxo,Ursula Legonidec,Professional Services,SMB,Qualification,301470,16,10/24/2025,4/16/2024,Open
+787,Deal Delta,Cogidoo,Shaughn Martello,Financial Services,Mid-Market,Negotiation,243960,16,3/12/2025,3/5/2024,Open
+788,Deal Alpha,Katz,Andriana Daunter,Professional Services,SMB,Negotiation,208001,64,4/12/2025,11/30/2023,Open
+789,Deal Gamma,Gevee,Perceval Molfino,Financial Services,SMB,Closed Lost,356868,15,6/22/2024,9/24/2023,Lost
+790,Deal Delta,Voomm,Adrienne Bateson,Retail,Mid-Market,Prospecting,93215,21,10/23/2025,6/6/2023,Open
+791,Deal Alpha,Cogilith,Arabel Priest,Professional Services,Mid-Market,Demo,217829,44,9/27/2024,12/3/2024,Open
+792,Deal Delta,Meeveo,Glyn Mulvey,Financial Services,Enterprise,Closed Won,403632,8,2/16/2024,2/22/2024,Won
+793,Deal Beta,Trudoo,Connie Ragot,Retail,Mid-Market,Qualification,207405,87,8/25/2024,1/29/2024,Open
+794,Deal Gamma,Quatz,Cris Wemes,Healthcare,SMB,Prospecting,67100,77,6/6/2025,3/27/2024,Open
+795,Deal Delta,Ntags,Jorey Restorick,Financial Services,SMB,Prospecting,263630,35,2/3/2024,6/3/2024,Open
+796,Deal Delta,Oozz,Georgiana Spread,Healthcare,SMB,Demo,53916,6,12/31/2024,10/20/2024,Open
+797,Deal Beta,Skiba,Eadith Reims,Retail,Enterprise,Qualification,288824,81,11/25/2025,11/4/2024,Open
+798,Deal Alpha,Buzzdog,Matilde Alloisi,Manufacturing,SMB,Prospecting,91246,49,10/18/2024,3/20/2024,Open
+799,Deal Gamma,Zoomcast,Corliss Gatley,Financial Services,Enterprise,Proposal,280543,84,4/5/2024,10/1/2023,Open
+800,Deal Alpha,Linklinks,Pippy Bonde,Manufacturing,Mid-Market,Demo,266776,54,5/21/2024,8/3/2024,Open
+801,Deal Gamma,Twimbo,Patrice Davidow,Retail,Enterprise,Qualification,14189,73,12/13/2025,10/4/2024,Open
+802,Deal Gamma,Twitternation,Patsy Skelington,Retail,SMB,Closed Won,77796,54,12/10/2025,7/10/2024,Won
+803,Deal Delta,Feedbug,Rock Dureden,Manufacturing,Mid-Market,Prospecting,205120,60,9/13/2024,8/22/2024,Open
+804,Deal Delta,Zoonder,Verile McClaren,Retail,Mid-Market,Closed Won,82140,7,6/13/2025,7/30/2024,Won
+805,Deal Delta,Gabcube,Tracy Kettle,Healthcare,Enterprise,Qualification,369567,43,2/7/2024,8/7/2023,Open
+806,Deal Beta,Wordware,Cristi Egdale,Technology,Enterprise,Proposal,458409,65,8/27/2025,1/20/2024,Open
+807,Deal Beta,Dablist,Anneliese Battman,Technology,Mid-Market,Qualification,61832,2,1/18/2025,4/3/2024,Open
+808,Deal Gamma,Mita,Kari Arkil,Professional Services,SMB,Prospecting,124385,87,8/3/2024,10/10/2023,Open
+809,Deal Delta,Topicware,Corey Pearde,Professional Services,Mid-Market,Demo,201520,12,4/15/2024,12/24/2024,Open
+810,Deal Beta,Flipbug,Vasili Littledyke,Professional Services,SMB,Demo,344621,59,2/24/2025,7/2/2023,Open
+811,Deal Delta,Ozu,Leigh Scotting,Financial Services,SMB,Closed Lost,337136,44,11/23/2025,3/1/2024,Lost
+812,Deal Delta,Zava,Doll O'Henecan,Manufacturing,Enterprise,Qualification,302898,75,3/11/2025,7/29/2024,Open
+813,Deal Alpha,Yakidoo,Verene Lathleiff,Technology,SMB,Demo,326353,34,3/20/2025,10/29/2023,Open
+814,Deal Gamma,Skimia,Fabiano Mothersole,Retail,Mid-Market,Prospecting,15626,73,11/5/2024,2/29/2024,Open
+815,Deal Gamma,Gigazoom,Cooper Penniall,Technology,Enterprise,Qualification,75244,77,10/25/2024,7/28/2023,Open
+816,Deal Alpha,Kanoodle,Sigismundo Hillaby,Technology,Enterprise,Qualification,83088,70,11/27/2025,9/7/2023,Open
+817,Deal Gamma,Babbleblab,Gabriellia Ramble,Healthcare,Enterprise,Negotiation,147157,4,6/21/2024,11/24/2023,Open
+818,Deal Delta,Skyble,Thurstan Gooddie,Technology,Mid-Market,Demo,270131,89,4/8/2025,4/19/2024,Open
+819,Deal Beta,Livetube,Allyn Mouncher,Healthcare,SMB,Prospecting,46518,48,4/9/2024,10/11/2023,Open
+820,Deal Delta,Skibox,Carie Fidian,Retail,Mid-Market,Closed Won,499263,52,2/26/2024,3/4/2024,Won
+821,Deal Delta,Topiczoom,Debbie Concannon,Healthcare,SMB,Closed Won,102878,69,5/5/2024,9/22/2024,Won
+822,Deal Alpha,Blogtag,Sela Montez,Manufacturing,SMB,Demo,405656,57,7/15/2025,10/5/2024,Open
+823,Deal Delta,Meevee,Gerty Bartholomieu,Technology,SMB,Proposal,494127,84,8/19/2024,10/10/2024,Open
+824,Deal Alpha,Browsezoom,Ardene Ygoe,Financial Services,Enterprise,Proposal,498457,21,9/25/2025,1/5/2024,Open
+825,Deal Alpha,Bluejam,Preston Pischof,Healthcare,Enterprise,Prospecting,467775,45,1/11/2025,8/16/2024,Open
+826,Deal Beta,Bubblebox,Kimberley Skitterel,Manufacturing,Mid-Market,Prospecting,107028,11,6/22/2025,6/27/2024,Open
+827,Deal Gamma,Ozu,Chas Perillio,Retail,Mid-Market,Negotiation,148027,50,5/4/2024,8/1/2024,Open
+828,Deal Alpha,Eamia,Herta Joost,Retail,SMB,Qualification,212196,17,11/26/2024,3/29/2024,Open
+829,Deal Beta,Roombo,Olga Lindgren,Manufacturing,Mid-Market,Proposal,207485,22,5/12/2024,6/22/2023,Open
+830,Deal Gamma,Shuffletag,Ferdy Gamon,Technology,SMB,Qualification,451471,58,1/28/2025,7/1/2024,Open
+831,Deal Gamma,Gigashots,Wood Dunton,Retail,Mid-Market,Closed Won,481048,26,7/22/2024,5/6/2024,Won
+832,Deal Beta,Blogspan,Pedro Crutch,Manufacturing,SMB,Qualification,31677,77,10/26/2024,10/24/2024,Open
+833,Deal Alpha,Photojam,Kent Howitt,Financial Services,Enterprise,Proposal,190507,46,8/8/2025,7/30/2023,Open
+834,Deal Beta,Trunyx,Domini Coveley,Financial Services,SMB,Demo,152580,14,2/28/2025,8/10/2023,Open
+835,Deal Beta,Skippad,Laurene Preon,Manufacturing,Mid-Market,Prospecting,59439,4,12/2/2025,7/25/2024,Open
+836,Deal Delta,Voonyx,Godfrey Rutledge,Professional Services,Enterprise,Proposal,257261,14,3/7/2025,2/21/2024,Open
+837,Deal Delta,Rhyloo,Vannie Lowndsborough,Financial Services,Enterprise,Closed Lost,447713,47,7/1/2024,11/19/2023,Lost
+838,Deal Delta,Flashspan,Ophelie Halson,Financial Services,Enterprise,Qualification,306139,80,7/8/2025,10/24/2024,Open
+839,Deal Gamma,Thoughtstorm,Philomena Whipple,Retail,SMB,Qualification,358926,73,3/8/2024,1/31/2024,Open
+840,Deal Delta,Dablist,Marys Oxbrow,Financial Services,Enterprise,Prospecting,430568,6,1/17/2024,10/31/2023,Open
+841,Deal Beta,Roodel,Suzette Pagan,Manufacturing,Enterprise,Prospecting,88896,35,7/25/2025,7/15/2024,Open
+842,Deal Beta,Einti,Benny Boldock,Manufacturing,Enterprise,Prospecting,164145,3,4/16/2025,3/21/2024,Open
+843,Deal Delta,Zooveo,Rosabel Lennard,Manufacturing,SMB,Prospecting,132397,82,6/11/2025,9/29/2024,Open
+844,Deal Delta,Ainyx,Maren Knobell,Healthcare,Enterprise,Qualification,481086,80,6/26/2025,9/27/2023,Open
+845,Deal Beta,Voonix,Scotti Ritzman,Professional Services,SMB,Demo,72683,45,8/20/2025,8/23/2023,Open
+846,Deal Gamma,Skyba,Morgun Poad,Manufacturing,Enterprise,Prospecting,242027,53,11/19/2025,5/28/2024,Open
+847,Deal Alpha,Dynabox,Zondra Bearward,Professional Services,Mid-Market,Demo,494067,11,10/19/2025,12/28/2023,Open
+848,Deal Alpha,Voolith,Fionna Glide,Professional Services,SMB,Qualification,349312,20,4/1/2024,1/23/2024,Open
+849,Deal Alpha,Eimbee,Stanislaw Caws,Retail,Enterprise,Prospecting,276730,39,12/29/2024,9/4/2023,Open
+850,Deal Beta,Chatterbridge,Carmina Frigot,Retail,Mid-Market,Prospecting,25629,3,7/19/2024,9/22/2023,Open
+851,Deal Beta,Dynabox,Joeann Fromant,Professional Services,Mid-Market,Qualification,455901,58,4/7/2025,2/26/2024,Open
+852,Deal Alpha,Snaptags,Teddie Meads,Retail,SMB,Proposal,38136,55,1/20/2024,10/7/2024,Open
+853,Deal Gamma,Mydo,Cissiee Aysh,Financial Services,Mid-Market,Demo,95181,43,6/8/2025,11/7/2024,Open
+854,Deal Gamma,Skyvu,Karrah Jones,Technology,Mid-Market,Qualification,39264,32,7/13/2025,8/24/2024,Open
+855,Deal Gamma,Edgeify,Domini Tall,Technology,Mid-Market,Proposal,455697,20,3/20/2025,10/6/2024,Open
+856,Deal Alpha,Skinix,Marwin Walak,Professional Services,Mid-Market,Demo,362279,71,9/25/2024,9/22/2024,Open
+857,Deal Gamma,Janyx,Korney Flatt,Financial Services,Enterprise,Closed Lost,462853,3,12/26/2024,7/5/2023,Lost
+858,Deal Delta,Photobug,Emmerich Stemp,Manufacturing,SMB,Proposal,254425,72,2/12/2025,6/1/2023,Open
+859,Deal Gamma,Kare,Dugald Tift,Technology,SMB,Demo,252628,13,2/17/2025,7/17/2023,Open
+860,Deal Alpha,Quire,Cleavland Newvell,Technology,Mid-Market,Demo,446622,45,9/19/2025,12/12/2024,Open
+861,Deal Gamma,Miboo,Heinrik Howle,Retail,Mid-Market,Negotiation,372778,25,10/21/2025,10/28/2023,Open
+862,Deal Beta,Podcat,Faber Kennewell,Professional Services,SMB,Proposal,471115,58,3/27/2025,10/30/2024,Open
+863,Deal Delta,Lazzy,Derwin Clayden,Retail,Mid-Market,Closed Lost,462968,84,1/17/2024,2/24/2024,Lost
+864,Deal Gamma,Topicblab,Salomon Wadeling,Retail,Mid-Market,Prospecting,306634,62,1/5/2024,12/17/2024,Open
+865,Deal Alpha,Skynoodle,Patsy Purcell,Professional Services,SMB,Demo,219187,23,5/21/2024,12/10/2024,Open
+866,Deal Alpha,Quamba,Rafi Flintuff,Retail,SMB,Proposal,202033,19,2/27/2025,12/12/2023,Open
+867,Deal Delta,Topdrive,Pattin Nelthropp,Technology,SMB,Proposal,186899,27,9/28/2025,4/24/2024,Open
+868,Deal Alpha,Vimbo,Hatty Pickaver,Healthcare,Mid-Market,Qualification,405659,54,7/31/2025,2/5/2024,Open
+869,Deal Gamma,Rhyloo,Regina Bussey,Technology,Enterprise,Qualification,354335,61,1/26/2024,8/18/2024,Open
+870,Deal Delta,Eayo,Giacinta Kender,Manufacturing,Mid-Market,Demo,318655,29,4/1/2024,7/23/2023,Open
+871,Deal Alpha,Tambee,Fernando Spere,Financial Services,SMB,Demo,466113,15,10/4/2025,7/5/2023,Open
+872,Deal Delta,Thoughtworks,Asher Dana,Retail,SMB,Demo,237836,52,7/26/2025,10/5/2023,Open
+873,Deal Gamma,Realmix,Wat Cauldwell,Retail,Enterprise,Prospecting,351462,51,11/28/2024,11/13/2023,Open
+874,Deal Delta,Vidoo,Christy Cotelard,Financial Services,SMB,Prospecting,371565,2,8/1/2024,3/13/2024,Open
+875,Deal Gamma,Roombo,Mame Forshaw,Financial Services,Mid-Market,Prospecting,133106,58,7/4/2024,3/3/2024,Open
+876,Deal Beta,Topicstorm,Pascal Mildmott,Manufacturing,Enterprise,Proposal,62737,62,12/15/2025,7/31/2024,Open
+877,Deal Alpha,Lajo,Violante Clutram,Healthcare,Mid-Market,Qualification,496761,23,6/3/2025,7/23/2023,Open
+878,Deal Beta,Kazio,Georgie Leonards,Healthcare,Mid-Market,Demo,228425,70,10/27/2024,7/28/2024,Open
+879,Deal Delta,Twitterbridge,Alfonse Kordovani,Retail,Mid-Market,Proposal,79564,26,6/9/2024,9/8/2024,Open
+880,Deal Delta,Avamba,Godart Dionsetto,Professional Services,Mid-Market,Negotiation,65670,60,6/25/2024,6/21/2023,Open
+881,Deal Beta,Kamba,Stinky Lorente,Professional Services,Mid-Market,Qualification,234044,75,11/9/2025,6/14/2024,Open
+882,Deal Beta,Zoozzy,Marthena Duffrie,Retail,Enterprise,Demo,332350,43,12/11/2024,6/9/2024,Open
+883,Deal Delta,Gevee,Ingrim Curnokk,Manufacturing,SMB,Prospecting,430156,84,9/6/2024,7/14/2023,Open
+884,Deal Delta,Kare,Maxwell Entissle,Professional Services,Enterprise,Prospecting,425753,83,2/16/2024,7/7/2024,Open
+885,Deal Alpha,Jaloo,Leora Stickland,Retail,Mid-Market,Closed Lost,241281,76,9/22/2025,11/30/2023,Lost
+886,Deal Delta,Janyx,Oralie McCudden,Manufacturing,Mid-Market,Proposal,188096,53,1/26/2024,9/12/2024,Open
+887,Deal Alpha,Oyondu,Bertine MacAndie,Retail,Mid-Market,Qualification,440552,20,7/15/2025,11/30/2024,Open
+888,Deal Beta,Myworks,Henri Muckeen,Retail,SMB,Proposal,9201,30,8/14/2025,12/15/2023,Open
+889,Deal Gamma,Flipbug,Stafford Wilbraham,Retail,Enterprise,Negotiation,17858,61,3/30/2025,6/3/2023,Open
+890,Deal Delta,Eadel,Patten Greeves,Technology,Enterprise,Prospecting,299365,22,6/28/2025,9/18/2023,Open
+891,Deal Alpha,Topicblab,Edwin Takle,Technology,Enterprise,Negotiation,252048,8,1/23/2024,9/7/2023,Open
+892,Deal Alpha,Shufflester,Crin Disbrow,Professional Services,Enterprise,Prospecting,371650,29,10/10/2024,8/6/2023,Open
+893,Deal Gamma,Wordify,Kerry Bellham,Technology,Mid-Market,Prospecting,437389,90,9/29/2024,10/2/2024,Open
+894,Deal Delta,Yakitri,Brigitta Rosevear,Manufacturing,Enterprise,Negotiation,405448,34,8/21/2025,3/2/2024,Open
+895,Deal Delta,Muxo,Munroe Cardnell,Professional Services,SMB,Proposal,53886,14,5/24/2025,11/20/2023,Open
+896,Deal Gamma,Yamia,Marjy Glentworth,Retail,Enterprise,Qualification,441630,36,10/12/2025,8/13/2023,Open
+897,Deal Delta,Twimm,Marilee Medling,Technology,Mid-Market,Negotiation,486022,45,3/23/2025,11/25/2023,Open
+898,Deal Gamma,Twinte,Svend Crosson,Professional Services,Mid-Market,Closed Won,246579,45,6/10/2024,7/28/2023,Won
+899,Deal Beta,Flipbug,Cornie Magson,Technology,SMB,Prospecting,475124,14,7/12/2024,9/2/2024,Open
+900,Deal Delta,Fatz,Abagail Hymers,Financial Services,SMB,Negotiation,56665,47,8/18/2024,10/4/2023,Open
+901,Deal Gamma,Yabox,Michel Poulter,Professional Services,Enterprise,Demo,137845,75,7/29/2024,8/2/2023,Open
+902,Deal Gamma,Yombu,Abelard Piola,Technology,Enterprise,Qualification,159105,85,9/30/2025,12/14/2023,Open
+903,Deal Gamma,Buzzbean,Vikky Vigrass,Technology,Enterprise,Prospecting,459843,50,11/1/2024,11/8/2024,Open
+904,Deal Beta,Oodoo,Laurianne Garmons,Healthcare,Enterprise,Demo,177595,50,2/27/2025,7/19/2024,Open
+905,Deal Beta,Yata,Lew Lancaster,Financial Services,SMB,Demo,252531,22,1/15/2025,8/2/2024,Open
+906,Deal Alpha,Flashset,Kaylil Western,Professional Services,Enterprise,Qualification,407390,43,7/17/2024,3/30/2024,Open
+907,Deal Alpha,Jatri,Nealy Henkens,Technology,Mid-Market,Prospecting,90492,42,10/2/2024,8/22/2023,Open
+908,Deal Beta,Thoughtmix,Cecily Cruickshanks,Retail,SMB,Negotiation,366871,78,1/21/2025,11/1/2024,Open
+909,Deal Beta,Viva,Anselma Dallas,Healthcare,Enterprise,Demo,267674,71,5/22/2024,4/17/2024,Open
+910,Deal Delta,Wordpedia,Benjamin Bew,Manufacturing,Mid-Market,Prospecting,318404,33,1/14/2025,4/23/2024,Open
+911,Deal Beta,Quaxo,Geralda Comino,Technology,Mid-Market,Prospecting,241815,67,5/29/2024,9/17/2024,Open
+912,Deal Delta,Skimia,Phillis Kitteringham,Professional Services,Mid-Market,Prospecting,352255,72,2/1/2024,8/9/2024,Open
+913,Deal Beta,Wordpedia,Waiter Barford,Technology,Enterprise,Demo,317353,48,6/26/2025,10/5/2024,Open
+914,Deal Alpha,Livefish,Hirsch Vlach,Healthcare,Enterprise,Proposal,146304,24,2/25/2024,8/31/2023,Open
+915,Deal Delta,Eazzy,Kaleena Eccott,Manufacturing,Enterprise,Prospecting,435368,62,4/4/2024,11/14/2023,Open
+916,Deal Gamma,Browseblab,Aldin Sleaford,Financial Services,Enterprise,Proposal,296596,34,3/16/2024,1/6/2024,Open
+917,Deal Gamma,Twinder,Miltie Twiname,Healthcare,Mid-Market,Prospecting,87390,68,10/21/2025,10/2/2023,Open
+918,Deal Alpha,Tagopia,Elsie Goskar,Financial Services,Enterprise,Proposal,424625,82,8/14/2024,3/29/2024,Open
+919,Deal Beta,Thoughtsphere,Dahlia McKeveney,Financial Services,Mid-Market,Closed Won,458095,49,12/21/2025,12/16/2024,Won
+920,Deal Delta,Babbleblab,Taddeo Palfery,Financial Services,Mid-Market,Qualification,40171,37,10/10/2024,7/22/2023,Open
+921,Deal Delta,Cogidoo,Indira Sidworth,Financial Services,SMB,Qualification,192289,52,9/23/2024,3/19/2024,Open
+922,Deal Delta,Rhyzio,Clemente Clail,Financial Services,Mid-Market,Negotiation,90282,72,9/26/2024,7/28/2023,Open
+923,Deal Beta,Brightdog,Feliks Burborough,Professional Services,Enterprise,Demo,356715,78,2/28/2024,11/20/2023,Open
+924,Deal Gamma,Linklinks,Laverne Darling,Professional Services,Mid-Market,Qualification,114231,7,4/27/2024,12/26/2023,Open
+925,Deal Delta,Dynava,Jacklyn Romanini,Technology,Mid-Market,Prospecting,242229,11,1/16/2024,1/12/2024,Open
+926,Deal Delta,Flipopia,Levey Burston,Financial Services,Enterprise,Qualification,323157,14,7/1/2025,5/15/2024,Open
+927,Deal Beta,Npath,Jacquetta Gilderoy,Retail,SMB,Qualification,74580,37,1/17/2025,7/28/2024,Open
+928,Deal Beta,Bubbletube,Tove Costan,Retail,Mid-Market,Proposal,138591,33,9/19/2025,10/3/2023,Open
+929,Deal Delta,Jayo,Rosabel Worthington,Financial Services,Enterprise,Proposal,144645,12,5/20/2024,7/5/2023,Open
+930,Deal Alpha,Tagpad,Pacorro Dressel,Retail,Mid-Market,Qualification,81032,1,10/24/2025,5/6/2024,Open
+931,Deal Alpha,Quimm,Hope Dillinger,Manufacturing,Enterprise,Proposal,465790,70,5/28/2024,7/11/2023,Open
+932,Deal Alpha,Buzzshare,Spense Piscot,Retail,Mid-Market,Qualification,190915,51,12/29/2024,3/28/2024,Open
+933,Deal Beta,Trupe,Daphne Bladen,Retail,Enterprise,Demo,263549,43,11/23/2025,8/6/2024,Open
+934,Deal Delta,Vidoo,Hi Hoffner,Manufacturing,Mid-Market,Prospecting,32796,45,9/2/2025,8/7/2023,Open
+935,Deal Delta,Gevee,Walt Konerding,Technology,SMB,Qualification,262325,52,1/12/2024,4/19/2024,Open
+936,Deal Alpha,Topicshots,Moss Lipson,Healthcare,Enterprise,Qualification,364614,61,9/24/2024,10/27/2024,Open
+937,Deal Beta,Flipbug,Tabbie Fernando,Retail,Enterprise,Qualification,493680,48,8/16/2025,12/25/2023,Open
+938,Deal Gamma,Rhyloo,Dulcinea Burdett,Professional Services,SMB,Proposal,473485,88,7/10/2024,10/23/2024,Open
+939,Deal Delta,Topicstorm,Carlota Coke,Professional Services,Mid-Market,Demo,241845,39,7/5/2025,1/4/2024,Open
+940,Deal Beta,Centidel,Evelyn Bocken,Retail,Mid-Market,Closed Lost,66575,16,4/26/2024,5/27/2024,Lost
+941,Deal Gamma,Skiba,Amalle Brownell,Professional Services,Enterprise,Prospecting,85618,34,5/1/2024,9/19/2024,Open
+942,Deal Alpha,Eazzy,Selestina Butner,Financial Services,Enterprise,Demo,472658,20,9/11/2025,12/15/2023,Open
+943,Deal Beta,Midel,Nye Bollans,Professional Services,Mid-Market,Closed Won,83365,16,10/22/2024,9/22/2023,Won
+944,Deal Beta,Kwimbee,Jenn Devas,Retail,SMB,Negotiation,88121,61,12/16/2024,1/22/2024,Open
+945,Deal Beta,Zoomdog,Keriann Littledike,Healthcare,SMB,Proposal,60799,22,4/4/2025,6/16/2024,Open
+946,Deal Delta,Bubblebox,Burty Shorey,Professional Services,Enterprise,Prospecting,39059,57,12/31/2024,9/26/2023,Open
+947,Deal Gamma,Flashspan,Sonya Freathy,Professional Services,SMB,Prospecting,466547,22,12/13/2024,5/5/2024,Open
+948,Deal Delta,Voonder,Joaquin Palfreyman,Retail,Mid-Market,Prospecting,8010,15,3/4/2025,9/29/2024,Open
+949,Deal Delta,Brainverse,Anton Corwin,Healthcare,SMB,Demo,221587,73,12/5/2024,7/5/2023,Open
+950,Deal Beta,Avaveo,Mirabella Hearl,Financial Services,Enterprise,Negotiation,496896,55,7/30/2024,10/4/2023,Open
+951,Deal Gamma,Ailane,Raimundo Litel,Technology,SMB,Qualification,229707,89,4/12/2025,2/1/2024,Open
+952,Deal Beta,Kwinu,Jacquelynn Fone,Professional Services,Enterprise,Negotiation,460412,24,8/19/2024,10/16/2023,Open
+953,Deal Alpha,Realcube,Connor Gillogley,Technology,SMB,Prospecting,269144,1,4/20/2025,1/1/2024,Open
+954,Deal Delta,Photospace,Kelcy Ballach,Professional Services,SMB,Prospecting,244663,24,7/19/2025,9/24/2023,Open
+955,Deal Alpha,Voolith,Jolie Lisimore,Retail,Mid-Market,Prospecting,370965,67,2/6/2024,5/7/2024,Open
+956,Deal Alpha,Yakitri,Artair Choak,Technology,SMB,Qualification,489144,37,5/29/2025,3/30/2024,Open
+957,Deal Delta,Meevee,Aura Deam,Technology,SMB,Demo,464620,79,5/29/2024,12/22/2023,Open
+958,Deal Delta,Thoughtmix,Anna Ritchman,Retail,SMB,Closed Won,481869,47,4/15/2025,11/13/2023,Won
+959,Deal Delta,Mynte,Konstantin Poone,Financial Services,Mid-Market,Qualification,152799,68,4/4/2024,6/15/2023,Open
+960,Deal Alpha,Fanoodle,Carlin Boyles,Healthcare,Mid-Market,Proposal,85342,34,6/29/2024,7/18/2023,Open
+961,Deal Delta,Yoveo,Darla Cobbing,Healthcare,SMB,Prospecting,116080,48,1/29/2025,2/25/2024,Open
+962,Deal Delta,Dabjam,Basile Byforth,Manufacturing,SMB,Qualification,244347,15,10/27/2024,11/10/2024,Open
+963,Deal Delta,Thoughtstorm,Elvina Sansbury,Healthcare,SMB,Demo,373280,2,4/18/2025,2/11/2024,Open
+964,Deal Beta,Demimbu,Rodolfo Yelden,Technology,Mid-Market,Proposal,48361,84,1/3/2025,10/14/2023,Open
+965,Deal Gamma,Linktype,Langsdon Aspinal,Technology,Enterprise,Demo,250901,58,6/28/2025,7/1/2024,Open
+966,Deal Gamma,Thoughtblab,Chadd Bampkin,Manufacturing,SMB,Prospecting,264803,31,12/29/2024,9/25/2023,Open
+967,Deal Delta,Skippad,Luci Byrde,Professional Services,SMB,Closed Won,328891,39,12/6/2024,12/3/2024,Won
+968,Deal Alpha,Dabvine,Mannie O'Calleran,Technology,Enterprise,Qualification,209097,4,4/2/2025,10/28/2024,Open
+969,Deal Delta,Flipbug,Dulcine Records,Professional Services,Enterprise,Closed Won,365683,60,9/10/2024,6/9/2023,Won
+970,Deal Beta,Skynoodle,Jenni Sweeney,Healthcare,SMB,Demo,19852,53,5/14/2025,9/3/2023,Open
+971,Deal Beta,Jabberstorm,Chrissie Ripsher,Financial Services,Enterprise,Qualification,370571,27,12/27/2025,11/24/2023,Open
+972,Deal Alpha,Cogilith,Coreen Thursfield,Professional Services,SMB,Demo,290463,6,6/23/2025,11/15/2024,Open
+973,Deal Alpha,Npath,Izzy Gentreau,Financial Services,SMB,Negotiation,58379,13,3/8/2025,8/28/2024,Open
+974,Deal Gamma,Thoughtbeat,Delaney Entres,Healthcare,SMB,Demo,490483,86,3/25/2025,11/5/2023,Open
+975,Deal Alpha,Katz,Karel Gurner,Retail,Mid-Market,Prospecting,445740,62,12/10/2024,4/7/2024,Open
+976,Deal Beta,Yambee,Edlin Foster,Professional Services,Enterprise,Demo,180632,74,11/19/2025,5/12/2024,Open
+977,Deal Gamma,Yacero,Modesty Snalham,Retail,SMB,Negotiation,362573,30,1/7/2025,4/19/2024,Open
+978,Deal Beta,Twinder,Lyn Totman,Manufacturing,Mid-Market,Qualification,291835,66,4/10/2024,2/1/2024,Open
+979,Deal Alpha,Zooxo,Nichol Setford,Healthcare,Enterprise,Proposal,238990,72,3/18/2024,3/10/2024,Open
+980,Deal Beta,Zoozzy,Vania Braundt,Retail,SMB,Prospecting,356411,81,2/13/2024,1/30/2024,Open
+981,Deal Beta,Quatz,Lutero Corzor,Professional Services,Enterprise,Demo,202007,18,8/14/2024,9/26/2024,Open
+982,Deal Delta,Eadel,Catherina Biaggelli,Retail,Enterprise,Proposal,306770,70,5/15/2025,2/3/2024,Open
+983,Deal Beta,Demimbu,Angeline Sexty,Technology,Mid-Market,Qualification,466480,81,9/11/2025,4/1/2024,Open
+984,Deal Beta,Blognation,Temp Stothert,Technology,SMB,Demo,357956,62,3/15/2024,5/5/2024,Open
+985,Deal Gamma,Buzzdog,Sunshine Craker,Technology,SMB,Qualification,272436,90,8/23/2024,7/4/2023,Open
+986,Deal Gamma,Divape,Damian Sommerfeld,Professional Services,SMB,Prospecting,351362,71,11/4/2025,9/14/2023,Open
+987,Deal Gamma,JumpXS,Franny Hanscomb,Technology,SMB,Prospecting,126723,77,10/26/2025,10/22/2023,Open
+988,Deal Alpha,Twitterwire,Belle Langton,Technology,Mid-Market,Negotiation,280263,8,2/1/2025,7/1/2024,Open
+989,Deal Alpha,Zoomlounge,Elicia Loton,Retail,Enterprise,Qualification,163557,34,3/13/2024,10/31/2024,Open
+990,Deal Delta,Centidel,Derby Gawkes,Healthcare,Mid-Market,Prospecting,315798,73,1/28/2024,3/19/2024,Open
+991,Deal Delta,Rhynoodle,Alasteir Bloss,Retail,Enterprise,Proposal,187501,40,7/20/2025,8/27/2023,Open
+992,Deal Alpha,Flipopia,Malva Petrecz,Manufacturing,Mid-Market,Qualification,101307,86,6/15/2024,7/6/2023,Open
+993,Deal Gamma,Skimia,Richart Silman,Retail,SMB,Proposal,436984,67,7/23/2024,6/21/2023,Open
+994,Deal Beta,Rhynoodle,Valentina Febry,Technology,Mid-Market,Qualification,146066,90,7/13/2025,8/31/2024,Open
+995,Deal Delta,Pixoboo,Terrence Brownhall,Technology,Mid-Market,Qualification,457557,52,7/9/2024,6/6/2024,Open
+996,Deal Gamma,Brainsphere,Ermentrude Bolderoe,Financial Services,Mid-Market,Qualification,108545,82,7/12/2025,3/24/2024,Open
+997,Deal Alpha,Topicstorm,Robbie Gianulli,Retail,SMB,Proposal,204800,41,2/18/2024,8/10/2023,Open
+998,Deal Beta,Tagcat,Tanitansy Galfour,Manufacturing,Mid-Market,Demo,165070,56,4/25/2025,6/30/2024,Open
+999,Deal Gamma,Buzzshare,Lorin Doone,Financial Services,SMB,Demo,262925,41,8/23/2024,9/17/2023,Open
+1000,Deal Delta,Dabfeed,Colene Futty,Financial Services,SMB,Closed Lost,233750,24,7/7/2024,10/30/2024,Lost
